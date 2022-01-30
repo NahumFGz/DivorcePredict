@@ -1,0 +1,1651 @@
+ProvinceCode,RegistrationMonth,RegistrationYear,Spouse1Age,Spouse2Age,AgeDiff
+Eastern Cape,July,2018,43,44,Spouses-1 younger
+Gauteng,January,2018,43,39,Spouses-1 older
+Gauteng,January,2018,37,32,Spouses-1 older
+Gauteng,February,2018,32,31,Spouses-1 older
+Gauteng,March,2018,39,37,Spouses-1 older
+Gauteng,March,2018,37,46,Spouses-1 younger
+Gauteng,April,2018,23,28,Spouses-1 younger
+Gauteng,April,2018,43,49,Spouses-1 younger
+Gauteng,May,2018,54,25,Spouses-1 older
+Gauteng,June,2018,33,35,Spouses-1 younger
+Gauteng,June,2018,29,29,Spouses same age
+Gauteng,July,2018,31,32,Spouses-1 younger
+Gauteng,August,2018,27,29,Spouses-1 younger
+Gauteng,August,2018,30,31,Spouses-1 younger
+Gauteng,August,2018,40,40,Spouses same age
+Gauteng,August,2018,40,35,Spouses-1 older
+Gauteng,March,2018,35,30,Spouses-1 older
+Gauteng,August,2018,35,32,Spouses-1 older
+Gauteng,September,2018,50,43,Spouses-1 older
+Gauteng,September,2018,49,31,Spouses-1 older
+Gauteng,September,2018,33,51,Spouses-1 younger
+KwaZulu-Natal,February,2018,32,28,Spouses-1 older
+KwaZulu-Natal,June,2018,70,68,Spouses-1 older
+KwaZulu-Natal,September,2018,40,24,Spouses-1 older
+KwaZulu-Natal,September,2018,47,42,Spouses-1 older
+KwaZulu-Natal,December,2018,22,21,Spouses-1 older
+KwaZulu-Natal,December,2018,56,47,Spouses-1 older
+KwaZulu-Natal,December,2018,35,37,Spouses-1 younger
+KwaZulu-Natal,December,2018,60,58,Spouses-1 older
+KwaZulu-Natal,December,2018,29,29,Spouses same age
+KwaZulu-Natal,December,2018,44,42,Spouses-1 older
+KwaZulu-Natal,December,2018,51,51,Spouses same age
+KwaZulu-Natal,January,2018,29,28,Spouses-1 older
+KwaZulu-Natal,January,2018,62,36,Spouses-1 older
+KwaZulu-Natal,January,2018,32,30,Spouses-1 older
+KwaZulu-Natal,January,2018,35,50,Spouses-1 younger
+KwaZulu-Natal,January,2018,53,46,Spouses-1 older
+KwaZulu-Natal,January,2018,35,32,Spouses-1 older
+KwaZulu-Natal,January,2018,25,25,Spouses same age
+KwaZulu-Natal,February,2018,49,37,Spouses-1 older
+KwaZulu-Natal,February,2018,34,32,Spouses-1 older
+KwaZulu-Natal,February,2018,69,57,Spouses-1 older
+KwaZulu-Natal,February,2018,43,41,Spouses-1 older
+KwaZulu-Natal,February,2018,36,21,Spouses-1 older
+KwaZulu-Natal,February,2018,78,74,Spouses-1 older
+KwaZulu-Natal,February,2018,33,30,Spouses-1 older
+KwaZulu-Natal,February,2018,31,27,Spouses-1 older
+KwaZulu-Natal,February,2018,56,51,Spouses-1 older
+KwaZulu-Natal,February,2018,43,38,Spouses-1 older
+KwaZulu-Natal,February,2018,47,26,Spouses-1 older
+KwaZulu-Natal,February,2018,42,47,Spouses-1 younger
+KwaZulu-Natal,February,2018,32,32,Spouses same age
+KwaZulu-Natal,February,2018,46,32,Spouses-1 older
+KwaZulu-Natal,March,2018,32,34,Spouses-1 younger
+KwaZulu-Natal,March,2018,64,58,Spouses-1 older
+KwaZulu-Natal,March,2018,34,32,Spouses-1 older
+KwaZulu-Natal,March,2018,35,35,Spouses same age
+KwaZulu-Natal,March,2018,35,34,Spouses-1 older
+KwaZulu-Natal,March,2018,34,25,Spouses-1 older
+KwaZulu-Natal,March,2018,32,31,Spouses-1 older
+KwaZulu-Natal,March,2018,41,31,Spouses-1 older
+KwaZulu-Natal,March,2018,32,29,Spouses-1 older
+KwaZulu-Natal,March,2018,29,30,Spouses-1 younger
+KwaZulu-Natal,March,2018,38,36,Spouses-1 older
+KwaZulu-Natal,March,2018,32,24,Spouses-1 older
+KwaZulu-Natal,March,2018,29,25,Spouses-1 older
+KwaZulu-Natal,March,2018,26,27,Spouses-1 younger
+KwaZulu-Natal,April,2018,29,34,Spouses-1 younger
+KwaZulu-Natal,April,2018,32,36,Spouses-1 younger
+KwaZulu-Natal,April,2018,26,24,Spouses-1 older
+KwaZulu-Natal,April,2018,33,42,Spouses-1 younger
+KwaZulu-Natal,April,2018,37,40,Spouses-1 younger
+KwaZulu-Natal,April,2018,31,28,Spouses-1 older
+KwaZulu-Natal,April,2018,57,59,Spouses-1 younger
+KwaZulu-Natal,April,2018,77,71,Spouses-1 older
+KwaZulu-Natal,April,2018,61,53,Spouses-1 older
+KwaZulu-Natal,April,2018,33,24,Spouses-1 older
+KwaZulu-Natal,April,2018,57,47,Spouses-1 older
+KwaZulu-Natal,April,2018,62,60,Spouses-1 older
+KwaZulu-Natal,April,2018,35,39,Spouses-1 younger
+KwaZulu-Natal,May,2018,32,30,Spouses-1 older
+KwaZulu-Natal,May,2018,30,29,Spouses-1 older
+KwaZulu-Natal,May,2018,32,22,Spouses-1 older
+KwaZulu-Natal,May,2018,33,28,Spouses-1 older
+KwaZulu-Natal,May,2018,46,45,Spouses-1 older
+KwaZulu-Natal,May,2018,55,61,Spouses-1 younger
+KwaZulu-Natal,May,2018,59,56,Spouses-1 older
+KwaZulu-Natal,May,2018,43,47,Spouses-1 younger
+KwaZulu-Natal,May,2018,42,32,Spouses-1 older
+KwaZulu-Natal,May,2018,60,41,Spouses-1 older
+KwaZulu-Natal,May,2018,44,34,Spouses-1 older
+KwaZulu-Natal,May,2018,48,45,Spouses-1 older
+KwaZulu-Natal,May,2018,32,33,Spouses-1 younger
+KwaZulu-Natal,June,2018,32,33,Spouses-1 younger
+KwaZulu-Natal,June,2018,60,50,Spouses-1 older
+KwaZulu-Natal,June,2018,28,24,Spouses-1 older
+KwaZulu-Natal,June,2018,27,29,Spouses-1 younger
+KwaZulu-Natal,June,2018,30,29,Spouses-1 older
+KwaZulu-Natal,June,2018,44,28,Spouses-1 older
+KwaZulu-Natal,June,2018,30,32,Spouses-1 younger
+KwaZulu-Natal,June,2018,33,24,Spouses-1 older
+KwaZulu-Natal,June,2018,40,31,Spouses-1 older
+KwaZulu-Natal,June,2018,37,40,Spouses-1 younger
+KwaZulu-Natal,June,2018,34,32,Spouses-1 older
+KwaZulu-Natal,June,2018,28,23,Spouses-1 older
+KwaZulu-Natal,July,2018,36,33,Spouses-1 older
+KwaZulu-Natal,July,2018,47,48,Spouses-1 younger
+KwaZulu-Natal,July,2018,38,33,Spouses-1 older
+KwaZulu-Natal,July,2018,55,54,Spouses-1 older
+KwaZulu-Natal,July,2018,31,30,Spouses-1 older
+KwaZulu-Natal,July,2018,34,35,Spouses-1 younger
+KwaZulu-Natal,July,2018,40,54,Spouses-1 younger
+KwaZulu-Natal,July,2018,36,32,Spouses-1 older
+KwaZulu-Natal,July,2018,55,54,Spouses-1 older
+KwaZulu-Natal,July,2018,41,27,Spouses-1 older
+KwaZulu-Natal,July,2018,33,33,Spouses same age
+KwaZulu-Natal,July,2018,30,29,Spouses-1 older
+KwaZulu-Natal,August,2018,28,28,Spouses same age
+KwaZulu-Natal,August,2018,38,31,Spouses-1 older
+KwaZulu-Natal,August,2018,33,27,Spouses-1 older
+KwaZulu-Natal,August,2018,32,28,Spouses-1 older
+KwaZulu-Natal,August,2018,31,29,Spouses-1 older
+KwaZulu-Natal,August,2018,32,26,Spouses-1 older
+KwaZulu-Natal,August,2018,28,29,Spouses-1 younger
+KwaZulu-Natal,August,2018,24,32,Spouses-1 younger
+KwaZulu-Natal,August,2018,44,33,Spouses-1 older
+KwaZulu-Natal,August,2018,39,39,Spouses same age
+KwaZulu-Natal,August,2018,32,35,Spouses-1 younger
+KwaZulu-Natal,August,2018,54,42,Spouses-1 older
+KwaZulu-Natal,August,2018,41,27,Spouses-1 older
+KwaZulu-Natal,September,2018,37,36,Spouses-1 older
+KwaZulu-Natal,September,2018,40,39,Spouses-1 older
+KwaZulu-Natal,September,2018,40,36,Spouses-1 older
+KwaZulu-Natal,September,2018,41,40,Spouses-1 older
+KwaZulu-Natal,September,2018,39,40,Spouses-1 younger
+KwaZulu-Natal,September,2018,58,54,Spouses-1 older
+KwaZulu-Natal,September,2018,27,28,Spouses-1 younger
+KwaZulu-Natal,September,2018,26,29,Spouses-1 younger
+KwaZulu-Natal,September,2018,39,35,Spouses-1 older
+KwaZulu-Natal,September,2018,48,40,Spouses-1 older
+KwaZulu-Natal,September,2018,26,58,Spouses-1 younger
+KwaZulu-Natal,October,2018,41,40,Spouses-1 older
+KwaZulu-Natal,October,2018,39,40,Spouses-1 younger
+KwaZulu-Natal,October,2018,53,48,Spouses-1 older
+KwaZulu-Natal,October,2018,30,28,Spouses-1 older
+KwaZulu-Natal,October,2018,44,38,Spouses-1 older
+KwaZulu-Natal,October,2018,33,29,Spouses-1 older
+KwaZulu-Natal,October,2018,57,46,Spouses-1 older
+KwaZulu-Natal,October,2018,26,31,Spouses-1 younger
+KwaZulu-Natal,October,2018,28,28,Spouses same age
+KwaZulu-Natal,October,2018,35,36,Spouses-1 younger
+KwaZulu-Natal,October,2018,29,28,Spouses-1 older
+KwaZulu-Natal,October,2018,24,23,Spouses-1 older
+KwaZulu-Natal,October,2018,37,30,Spouses-1 older
+KwaZulu-Natal,October,2018,34,29,Spouses-1 older
+KwaZulu-Natal,October,2018,33,31,Spouses-1 older
+KwaZulu-Natal,November,2018,45,50,Spouses-1 younger
+KwaZulu-Natal,November,2018,32,25,Spouses-1 older
+KwaZulu-Natal,November,2018,52,45,Spouses-1 older
+KwaZulu-Natal,November,2018,45,35,Spouses-1 older
+KwaZulu-Natal,November,2018,44,50,Spouses-1 younger
+KwaZulu-Natal,November,2018,53,64,Spouses-1 younger
+KwaZulu-Natal,November,2018,46,41,Spouses-1 older
+KwaZulu-Natal,November,2018,29,24,Spouses-1 older
+KwaZulu-Natal,December,2018,36,31,Spouses-1 older
+KwaZulu-Natal,December,2018,34,32,Spouses-1 older
+KwaZulu-Natal,December,2018,29,27,Spouses-1 older
+KwaZulu-Natal,December,2018,26,27,Spouses-1 younger
+KwaZulu-Natal,December,2018,72,67,Spouses-1 older
+KwaZulu-Natal,December,2018,38,37,Spouses-1 older
+KwaZulu-Natal,December,2018,44,42,Spouses-1 older
+KwaZulu-Natal,December,2018,24,23,Spouses-1 older
+Western Cape,March,2018,37,45,Spouses-1 younger
+Eastern Cape,December,2018,25,23,Spouses-1 older
+Western Cape,November,2018,41,32,Spouses-1 older
+Western Cape,December,2018,33,37,Spouses-1 younger
+Limpopo,May,2018,33,30,Spouses-1 older
+Limpopo,October,2018,50,46,Spouses-1 older
+Western Cape,January,2018,41,37,Spouses-1 older
+Western Cape,February,2018,35,30,Spouses-1 older
+Western Cape,March,2018,26,26,Spouses same age
+Western Cape,April,2018,47,46,Spouses-1 older
+Western Cape,April,2018,39,33,Spouses-1 older
+Western Cape,May,2018,36,35,Spouses-1 older
+Western Cape,June,2018,40,29,Spouses-1 older
+Western Cape,June,2018,35,23,Spouses-1 older
+Western Cape,July,2018,28,34,Spouses-1 younger
+Western Cape,July,2018,26,26,Spouses same age
+Western Cape,July,2018,23,21,Spouses-1 older
+Western Cape,September,2018,23,22,Spouses-1 older
+Gauteng,April,2018,24,29,Spouses-1 younger
+Gauteng,April,2018,41,36,Spouses-1 older
+Gauteng,June,2018,52,50,Spouses-1 older
+Gauteng,July,2018,37,28,Spouses-1 older
+Gauteng,July,2018,50,47,Spouses-1 older
+Gauteng,August,2018,30,29,Spouses-1 older
+Gauteng,September,2018,34,28,Spouses-1 older
+Gauteng,November,2018,30,29,Spouses-1 older
+Gauteng,November,2018,28,27,Spouses-1 older
+KwaZulu-Natal,September,2018,47,38,Spouses-1 older
+Free State,June,2018,27,42,Spouses-1 younger
+Free State,July,2018,33,30,Spouses-1 older
+Free State,August,2018,55,44,Spouses-1 older
+Free State,August,2018,34,27,Spouses-1 older
+Free State,September,2018,40,38,Spouses-1 older
+Free State,November,2018,30,27,Spouses-1 older
+Free State,December,2018,21,38,Spouses-1 younger
+Western Cape,September,2018,53,49,Spouses-1 older
+Free State,December,2018,31,18,Spouses-1 older
+Free State,January,2018,38,30,Spouses-1 older
+Free State,February,2018,30,25,Spouses-1 older
+Free State,March,2018,35,41,Spouses-1 younger
+Free State,March,2018,23,24,Spouses-1 younger
+Free State,April,2018,28,24,Spouses-1 older
+Free State,April,2018,29,34,Spouses-1 younger
+Free State,April,2018,30,35,Spouses-1 younger
+Free State,April,2018,32,32,Spouses same age
+Free State,May,2018,43,40,Spouses-1 older
+Free State,May,2018,37,25,Spouses-1 older
+Free State,June,2018,44,30,Spouses-1 older
+Free State,June,2018,37,29,Spouses-1 older
+Free State,August,2018,31,23,Spouses-1 older
+Free State,September,2018,35,48,Spouses-1 younger
+Free State,September,2018,34,36,Spouses-1 younger
+Free State,September,2018,39,30,Spouses-1 older
+Free State,September,2018,44,43,Spouses-1 older
+Free State,October,2018,27,32,Spouses-1 younger
+Free State,October,2018,41,40,Spouses-1 older
+Free State,October,2018,34,21,Spouses-1 older
+Free State,October,2018,38,48,Spouses-1 younger
+Free State,November,2018,28,24,Spouses-1 older
+Free State,December,2018,39,33,Spouses-1 older
+Western Cape,October,2018,30,29,Spouses-1 older
+Western Cape,October,2018,24,33,Spouses-1 younger
+KwaZulu-Natal,April,2018,29,33,Spouses-1 younger
+KwaZulu-Natal,June,2018,38,31,Spouses-1 older
+Gauteng,February,2018,19,20,Spouses-1 younger
+Gauteng,December,2018,36,37,Spouses-1 younger
+Gauteng,January,2018,32,26,Spouses-1 older
+Gauteng,April,2018,39,32,Spouses-1 older
+Gauteng,April,2018,27,26,Spouses-1 older
+Gauteng,April,2018,31,38,Spouses-1 younger
+Gauteng,April,2018,25,32,Spouses-1 younger
+Gauteng,April,2018,46,37,Spouses-1 older
+Gauteng,June,2018,29,28,Spouses-1 older
+Gauteng,August,2018,39,33,Spouses-1 older
+Gauteng,August,2018,41,47,Spouses-1 younger
+Gauteng,November,2018,44,43,Spouses-1 older
+Gauteng,November,2018,35,27,Spouses-1 older
+Gauteng,November,2018,47,46,Spouses-1 older
+Gauteng,November,2018,60,42,Spouses-1 older
+Gauteng,December,2018,24,27,Spouses-1 younger
+Western Cape,April,2018,32,25,Spouses-1 older
+Western Cape,July,2018,33,28,Spouses-1 older
+Western Cape,September,2018,37,49,Spouses-1 younger
+Gauteng,January,2018,37,33,Spouses-1 older
+Gauteng,March,2018,34,26,Spouses-1 older
+Gauteng,March,2018,30,22,Spouses-1 older
+Gauteng,March,2018,34,24,Spouses-1 older
+Gauteng,May,2018,37,32,Spouses-1 older
+Gauteng,May,2018,28,22,Spouses-1 older
+Gauteng,May,2018,21,33,Spouses-1 younger
+Gauteng,July,2018,48,46,Spouses-1 older
+Gauteng,August,2018,24,25,Spouses-1 younger
+Gauteng,September,2018,28,27,Spouses-1 older
+Gauteng,September,2018,44,46,Spouses-1 younger
+Gauteng,September,2018,34,33,Spouses-1 older
+Gauteng,October,2018,49,43,Spouses-1 older
+Gauteng,October,2018,29,27,Spouses-1 older
+Gauteng,November,2018,41,49,Spouses-1 younger
+Gauteng,November,2018,24,27,Spouses-1 younger
+North West,January,2018,44,50,Spouses-1 younger
+North West,June,2018,37,37,Spouses same age
+North West,October,2018,32,50,Spouses-1 younger
+Gauteng,March,2018,35,37,Spouses-1 younger
+Gauteng,May,2018,29,37,Spouses-1 younger
+Gauteng,July,2018,35,36,Spouses-1 younger
+Gauteng,November,2018,49,33,Spouses-1 older
+Gauteng,October,2018,34,30,Spouses-1 older
+Gauteng,October,2018,32,33,Spouses-1 younger
+Gauteng,November,2018,29,30,Spouses-1 younger
+Mpumalanga,September,2018,48,39,Spouses-1 older
+Free State,February,2018,39,49,Spouses-1 younger
+Free State,September,2018,30,34,Spouses-1 younger
+Free State,September,2018,33,27,Spouses-1 older
+Western Cape,March,2018,37,28,Spouses-1 older
+Western Cape,March,2018,26,29,Spouses-1 younger
+Eastern Cape,December,2018,27,28,Spouses-1 younger
+Eastern Cape,August,2018,36,31,Spouses-1 older
+Western Cape,February,2018,60,56,Spouses-1 older
+Western Cape,March,2018,45,36,Spouses-1 older
+Western Cape,April,2018,60,52,Spouses-1 older
+Western Cape,February,2018,47,32,Spouses-1 older
+Western Cape,May,2018,58,55,Spouses-1 older
+Western Cape,June,2018,67,69,Spouses-1 younger
+Western Cape,July,2018,23,22,Spouses-1 older
+Western Cape,July,2018,41,47,Spouses-1 younger
+Western Cape,December,2018,47,46,Spouses-1 older
+Western Cape,December,2018,34,27,Spouses-1 older
+Western Cape,December,2018,31,28,Spouses-1 older
+Western Cape,December,2018,40,33,Spouses-1 older
+Western Cape,December,2018,54,52,Spouses-1 older
+Western Cape,December,2018,25,24,Spouses-1 older
+Western Cape,December,2018,61,50,Spouses-1 older
+Western Cape,December,2018,29,24,Spouses-1 older
+Western Cape,December,2018,37,30,Spouses-1 older
+Western Cape,January,2018,55,48,Spouses-1 older
+Western Cape,January,2018,52,41,Spouses-1 older
+Western Cape,January,2018,50,41,Spouses-1 older
+Western Cape,January,2018,53,41,Spouses-1 older
+Western Cape,January,2018,33,40,Spouses-1 younger
+Western Cape,January,2018,36,33,Spouses-1 older
+Western Cape,January,2018,28,26,Spouses-1 older
+Western Cape,January,2018,36,26,Spouses-1 older
+Western Cape,January,2018,42,33,Spouses-1 older
+Western Cape,January,2018,29,41,Spouses-1 younger
+Western Cape,January,2018,50,46,Spouses-1 older
+Western Cape,February,2018,40,45,Spouses-1 younger
+Western Cape,February,2018,32,41,Spouses-1 younger
+Western Cape,February,2018,38,30,Spouses-1 older
+Western Cape,February,2018,25,34,Spouses-1 younger
+Western Cape,February,2018,25,26,Spouses-1 younger
+Western Cape,February,2018,37,30,Spouses-1 older
+Western Cape,February,2018,34,34,Spouses same age
+Western Cape,February,2018,57,56,Spouses-1 older
+Western Cape,February,2018,52,43,Spouses-1 older
+Western Cape,February,2018,32,34,Spouses-1 younger
+Western Cape,February,2018,25,37,Spouses-1 younger
+Western Cape,February,2018,58,37,Spouses-1 older
+Western Cape,March,2018,32,29,Spouses-1 older
+Western Cape,March,2018,28,36,Spouses-1 younger
+Western Cape,March,2018,31,29,Spouses-1 older
+Western Cape,March,2018,31,28,Spouses-1 older
+Western Cape,March,2018,25,23,Spouses-1 older
+Western Cape,March,2018,31,33,Spouses-1 younger
+Western Cape,March,2018,53,47,Spouses-1 older
+Western Cape,March,2018,33,32,Spouses-1 older
+Western Cape,March,2018,45,34,Spouses-1 older
+Western Cape,March,2018,50,40,Spouses-1 older
+Western Cape,March,2018,30,32,Spouses-1 younger
+Western Cape,March,2018,27,29,Spouses-1 younger
+Western Cape,March,2018,26,28,Spouses-1 younger
+Western Cape,March,2018,32,22,Spouses-1 older
+Western Cape,March,2018,25,27,Spouses-1 younger
+Western Cape,March,2018,39,49,Spouses-1 younger
+Western Cape,March,2018,37,37,Spouses same age
+Western Cape,March,2018,44,41,Spouses-1 older
+Western Cape,March,2018,34,44,Spouses-1 younger
+Western Cape,March,2018,62,59,Spouses-1 older
+Western Cape,March,2018,32,32,Spouses same age
+Western Cape,March,2018,37,36,Spouses-1 older
+Western Cape,March,2018,56,62,Spouses-1 younger
+Western Cape,March,2018,39,37,Spouses-1 older
+Western Cape,March,2018,36,36,Spouses same age
+Western Cape,March,2018,42,39,Spouses-1 older
+Western Cape,March,2018,32,39,Spouses-1 younger
+Western Cape,March,2018,26,23,Spouses-1 older
+Western Cape,March,2018,40,34,Spouses-1 older
+Western Cape,April,2018,35,37,Spouses-1 younger
+Western Cape,April,2018,36,31,Spouses-1 older
+Western Cape,April,2018,30,32,Spouses-1 younger
+Western Cape,April,2018,35,38,Spouses-1 younger
+Western Cape,April,2018,54,51,Spouses-1 older
+Western Cape,April,2018,30,36,Spouses-1 younger
+Western Cape,April,2018,24,25,Spouses-1 younger
+Western Cape,April,2018,44,41,Spouses-1 older
+Western Cape,April,2018,27,25,Spouses-1 older
+Western Cape,April,2018,30,30,Spouses same age
+Western Cape,April,2018,28,25,Spouses-1 older
+Western Cape,April,2018,53,45,Spouses-1 older
+Western Cape,April,2018,32,35,Spouses-1 younger
+Western Cape,April,2018,28,31,Spouses-1 younger
+Western Cape,April,2018,57,46,Spouses-1 older
+Western Cape,April,2018,38,38,Spouses same age
+Western Cape,April,2018,28,28,Spouses same age
+Western Cape,April,2018,48,64,Spouses-1 younger
+Western Cape,April,2018,34,34,Spouses same age
+Western Cape,April,2018,35,38,Spouses-1 younger
+Western Cape,April,2018,32,31,Spouses-1 older
+Western Cape,April,2018,33,35,Spouses-1 younger
+Western Cape,April,2018,31,25,Spouses-1 older
+Western Cape,April,2018,38,34,Spouses-1 older
+Western Cape,April,2018,49,54,Spouses-1 younger
+Western Cape,April,2018,26,26,Spouses same age
+Western Cape,May,2018,29,33,Spouses-1 younger
+Western Cape,May,2018,24,30,Spouses-1 younger
+Western Cape,May,2018,74,67,Spouses-1 older
+Western Cape,May,2018,53,55,Spouses-1 younger
+Western Cape,May,2018,43,37,Spouses-1 older
+Western Cape,May,2018,58,57,Spouses-1 older
+Western Cape,May,2018,26,24,Spouses-1 older
+Western Cape,May,2018,46,34,Spouses-1 older
+Western Cape,May,2018,23,24,Spouses-1 younger
+Western Cape,May,2018,57,52,Spouses-1 older
+Western Cape,May,2018,52,50,Spouses-1 older
+Western Cape,May,2018,29,35,Spouses-1 younger
+Western Cape,May,2018,74,76,Spouses-1 younger
+Western Cape,May,2018,34,24,Spouses-1 older
+Western Cape,May,2018,29,28,Spouses-1 older
+Western Cape,May,2018,49,56,Spouses-1 younger
+Western Cape,May,2018,36,29,Spouses-1 older
+Western Cape,June,2018,53,42,Spouses-1 older
+Western Cape,June,2018,36,37,Spouses-1 younger
+Western Cape,June,2018,25,25,Spouses same age
+Western Cape,June,2018,38,33,Spouses-1 older
+Western Cape,June,2018,55,48,Spouses-1 older
+Western Cape,June,2018,31,30,Spouses-1 older
+Western Cape,June,2018,41,39,Spouses-1 older
+Western Cape,June,2018,40,46,Spouses-1 younger
+Western Cape,July,2018,42,42,Spouses same age
+Western Cape,July,2018,54,50,Spouses-1 older
+Western Cape,July,2018,47,46,Spouses-1 older
+Western Cape,July,2018,46,45,Spouses-1 older
+Western Cape,July,2018,24,25,Spouses-1 younger
+Western Cape,July,2018,38,29,Spouses-1 older
+Western Cape,July,2018,33,31,Spouses-1 older
+Western Cape,July,2018,19,25,Spouses-1 younger
+Western Cape,July,2018,33,31,Spouses-1 older
+Western Cape,July,2018,34,34,Spouses same age
+Western Cape,July,2018,34,21,Spouses-1 older
+Western Cape,July,2018,40,26,Spouses-1 older
+Western Cape,July,2018,25,31,Spouses-1 younger
+Western Cape,July,2018,55,40,Spouses-1 older
+Western Cape,July,2018,29,28,Spouses-1 older
+Western Cape,July,2018,49,28,Spouses-1 older
+Western Cape,July,2018,35,39,Spouses-1 younger
+Western Cape,August,2018,32,27,Spouses-1 older
+Western Cape,August,2018,38,31,Spouses-1 older
+Western Cape,August,2018,64,49,Spouses-1 older
+Western Cape,August,2018,54,55,Spouses-1 younger
+Western Cape,August,2018,30,31,Spouses-1 younger
+Western Cape,August,2018,28,26,Spouses-1 older
+Western Cape,August,2018,58,56,Spouses-1 older
+Western Cape,August,2018,37,36,Spouses-1 older
+Western Cape,August,2018,34,30,Spouses-1 older
+Western Cape,August,2018,28,28,Spouses same age
+Western Cape,August,2018,30,26,Spouses-1 older
+Western Cape,August,2018,35,28,Spouses-1 older
+Western Cape,August,2018,31,28,Spouses-1 older
+Western Cape,August,2018,26,23,Spouses-1 older
+Western Cape,August,2018,52,38,Spouses-1 older
+Western Cape,August,2018,31,31,Spouses same age
+Western Cape,August,2018,31,37,Spouses-1 younger
+Western Cape,August,2018,38,35,Spouses-1 older
+Western Cape,August,2018,25,24,Spouses-1 older
+Western Cape,August,2018,36,36,Spouses same age
+Western Cape,August,2018,44,45,Spouses-1 younger
+Western Cape,August,2018,26,31,Spouses-1 younger
+Western Cape,September,2018,26,39,Spouses-1 younger
+Western Cape,September,2018,33,30,Spouses-1 older
+Western Cape,September,2018,30,25,Spouses-1 older
+Western Cape,September,2018,25,27,Spouses-1 younger
+Western Cape,September,2018,50,48,Spouses-1 older
+Western Cape,September,2018,58,55,Spouses-1 older
+Western Cape,September,2018,47,50,Spouses-1 younger
+Western Cape,September,2018,33,32,Spouses-1 older
+Western Cape,September,2018,62,67,Spouses-1 younger
+Western Cape,September,2018,39,38,Spouses-1 older
+Western Cape,September,2018,33,35,Spouses-1 younger
+Western Cape,September,2018,29,30,Spouses-1 younger
+Western Cape,September,2018,58,46,Spouses-1 older
+Western Cape,September,2018,41,38,Spouses-1 older
+Western Cape,September,2018,55,57,Spouses-1 younger
+Western Cape,September,2018,22,22,Spouses same age
+Western Cape,September,2018,36,31,Spouses-1 older
+Western Cape,October,2018,31,27,Spouses-1 older
+Western Cape,October,2018,47,29,Spouses-1 older
+Western Cape,October,2018,29,38,Spouses-1 younger
+Western Cape,October,2018,30,23,Spouses-1 older
+Western Cape,October,2018,29,29,Spouses same age
+Western Cape,October,2018,35,32,Spouses-1 older
+Western Cape,October,2018,43,46,Spouses-1 younger
+Western Cape,October,2018,35,34,Spouses-1 older
+Western Cape,October,2018,56,54,Spouses-1 older
+Western Cape,October,2018,37,30,Spouses-1 older
+Western Cape,October,2018,31,32,Spouses-1 younger
+Western Cape,October,2018,33,32,Spouses-1 older
+Western Cape,October,2018,50,50,Spouses same age
+Western Cape,October,2018,27,32,Spouses-1 younger
+Western Cape,October,2018,57,56,Spouses-1 older
+Western Cape,October,2018,32,38,Spouses-1 younger
+Western Cape,October,2018,31,30,Spouses-1 older
+Western Cape,October,2018,25,35,Spouses-1 younger
+Western Cape,October,2018,36,32,Spouses-1 older
+Western Cape,October,2018,58,58,Spouses same age
+Western Cape,October,2018,27,33,Spouses-1 younger
+Western Cape,October,2018,34,39,Spouses-1 younger
+Western Cape,November,2018,38,51,Spouses-1 younger
+Western Cape,November,2018,51,31,Spouses-1 older
+Western Cape,November,2018,36,34,Spouses-1 older
+Western Cape,November,2018,39,38,Spouses-1 older
+Western Cape,November,2018,48,53,Spouses-1 younger
+Western Cape,November,2018,33,30,Spouses-1 older
+Western Cape,November,2018,31,34,Spouses-1 younger
+Western Cape,November,2018,27,25,Spouses-1 older
+Western Cape,November,2018,25,45,Spouses-1 younger
+Western Cape,November,2018,50,52,Spouses-1 younger
+Western Cape,November,2018,29,29,Spouses same age
+Western Cape,November,2018,30,39,Spouses-1 younger
+Western Cape,November,2018,29,27,Spouses-1 older
+Western Cape,December,2018,33,33,Spouses same age
+Western Cape,December,2018,36,40,Spouses-1 younger
+Western Cape,December,2018,36,35,Spouses-1 older
+Western Cape,December,2018,41,29,Spouses-1 older
+Western Cape,December,2018,41,42,Spouses-1 younger
+Western Cape,December,2018,34,25,Spouses-1 older
+Western Cape,December,2018,31,33,Spouses-1 younger
+Western Cape,December,2018,59,47,Spouses-1 older
+Western Cape,December,2018,31,38,Spouses-1 younger
+Western Cape,December,2018,37,31,Spouses-1 older
+Western Cape,December,2018,32,41,Spouses-1 younger
+Western Cape,December,2018,27,27,Spouses same age
+Western Cape,December,2018,37,31,Spouses-1 older
+Western Cape,December,2018,42,33,Spouses-1 older
+Gauteng,January,2018,32,35,Spouses-1 younger
+Gauteng,October,2018,33,23,Spouses-1 older
+Gauteng,November,2018,23,23,Spouses same age
+Mpumalanga,April,2018,36,34,Spouses-1 older
+Mpumalanga,May,2018,40,44,Spouses-1 younger
+Gauteng,June,2018,73,65,Spouses-1 older
+Gauteng,September,2018,47,49,Spouses-1 younger
+Gauteng,January,2018,33,38,Spouses-1 younger
+Gauteng,February,2018,35,30,Spouses-1 older
+Gauteng,February,2018,39,56,Spouses-1 younger
+Gauteng,March,2018,29,30,Spouses-1 younger
+Gauteng,April,2018,47,43,Spouses-1 older
+Gauteng,April,2018,32,42,Spouses-1 younger
+Gauteng,May,2018,33,32,Spouses-1 older
+Gauteng,May,2018,44,32,Spouses-1 older
+Gauteng,May,2018,61,50,Spouses-1 older
+Gauteng,June,2018,28,33,Spouses-1 younger
+Gauteng,June,2018,41,42,Spouses-1 younger
+Gauteng,June,2018,37,32,Spouses-1 older
+Gauteng,July,2018,31,35,Spouses-1 younger
+Gauteng,July,2018,34,37,Spouses-1 younger
+Gauteng,July,2018,41,37,Spouses-1 older
+Gauteng,July,2018,46,46,Spouses same age
+Gauteng,August,2018,35,42,Spouses-1 younger
+Gauteng,August,2018,30,29,Spouses-1 older
+Gauteng,August,2018,29,33,Spouses-1 younger
+Gauteng,August,2018,35,24,Spouses-1 older
+Gauteng,August,2018,40,34,Spouses-1 older
+Gauteng,September,2018,29,38,Spouses-1 younger
+Gauteng,September,2018,43,30,Spouses-1 older
+Gauteng,September,2018,25,25,Spouses same age
+Gauteng,September,2018,38,32,Spouses-1 older
+Gauteng,September,2018,33,32,Spouses-1 older
+Gauteng,September,2018,31,29,Spouses-1 older
+Gauteng,September,2018,34,34,Spouses same age
+Gauteng,September,2018,29,40,Spouses-1 younger
+Gauteng,September,2018,57,39,Spouses-1 older
+Gauteng,October,2018,35,34,Spouses-1 older
+Gauteng,October,2018,28,28,Spouses same age
+Gauteng,October,2018,49,43,Spouses-1 older
+Gauteng,November,2018,36,29,Spouses-1 older
+Gauteng,November,2018,54,62,Spouses-1 younger
+Gauteng,November,2018,48,45,Spouses-1 older
+Gauteng,November,2018,62,56,Spouses-1 older
+Gauteng,November,2018,47,60,Spouses-1 younger
+Gauteng,December,2018,69,81,Spouses-1 younger
+Western Cape,January,2018,22,28,Spouses-1 younger
+Western Cape,March,2018,41,37,Spouses-1 older
+Western Cape,April,2018,65,60,Spouses-1 older
+Western Cape,July,2018,28,26,Spouses-1 older
+Western Cape,December,2018,58,50,Spouses-1 older
+Western Cape,November,2018,55,61,Spouses-1 younger
+Free State,February,2018,33,35,Spouses-1 younger
+Free State,March,2018,36,32,Spouses-1 older
+Western Cape,August,2018,48,56,Spouses-1 younger
+Western Cape,October,2018,33,27,Spouses-1 older
+Gauteng,October,2018,33,30,Spouses-1 older
+Gauteng,January,2018,31,31,Spouses same age
+Gauteng,April,2018,57,48,Spouses-1 older
+Gauteng,July,2018,31,25,Spouses-1 older
+Gauteng,August,2018,34,30,Spouses-1 older
+Gauteng,August,2018,28,30,Spouses-1 younger
+Gauteng,September,2018,29,24,Spouses-1 older
+Gauteng,November,2018,31,35,Spouses-1 younger
+Gauteng,November,2018,32,43,Spouses-1 younger
+KwaZulu-Natal,September,2018,40,20,Spouses-1 older
+KwaZulu-Natal,September,2018,49,48,Spouses-1 older
+Western Cape,May,2018,49,34,Spouses-1 older
+Western Cape,November,2018,36,35,Spouses-1 older
+Eastern Cape,February,2018,34,44,Spouses-1 younger
+Eastern Cape,February,2018,40,45,Spouses-1 younger
+Eastern Cape,February,2018,29,49,Spouses-1 younger
+Eastern Cape,September,2018,48,47,Spouses-1 older
+Western Cape,March,2018,37,33,Spouses-1 older
+Western Cape,September,2018,37,33,Spouses-1 older
+Gauteng,July,2018,25,26,Spouses-1 younger
+Mpumalanga,February,2018,32,45,Spouses-1 younger
+Mpumalanga,May,2018,28,25,Spouses-1 older
+Mpumalanga,November,2018,41,32,Spouses-1 older
+KwaZulu-Natal,October,2018,32,34,Spouses-1 younger
+KwaZulu-Natal,March,2018,65,47,Spouses-1 older
+KwaZulu-Natal,March,2018,48,39,Spouses-1 older
+KwaZulu-Natal,April,2018,29,30,Spouses-1 younger
+KwaZulu-Natal,April,2018,48,52,Spouses-1 younger
+KwaZulu-Natal,April,2018,40,34,Spouses-1 older
+KwaZulu-Natal,April,2018,31,29,Spouses-1 older
+KwaZulu-Natal,September,2018,61,58,Spouses-1 older
+KwaZulu-Natal,October,2018,21,30,Spouses-1 younger
+KwaZulu-Natal,October,2018,44,43,Spouses-1 older
+KwaZulu-Natal,November,2018,35,31,Spouses-1 older
+KwaZulu-Natal,November,2018,40,35,Spouses-1 older
+KwaZulu-Natal,November,2018,76,66,Spouses-1 older
+KwaZulu-Natal,December,2018,21,29,Spouses-1 younger
+KwaZulu-Natal,January,2018,37,38,Spouses-1 younger
+KwaZulu-Natal,January,2018,34,30,Spouses-1 older
+KwaZulu-Natal,January,2018,45,43,Spouses-1 older
+KwaZulu-Natal,January,2018,32,31,Spouses-1 older
+KwaZulu-Natal,February,2018,45,44,Spouses-1 older
+KwaZulu-Natal,February,2018,30,28,Spouses-1 older
+KwaZulu-Natal,February,2018,36,30,Spouses-1 older
+KwaZulu-Natal,March,2018,57,53,Spouses-1 older
+KwaZulu-Natal,April,2018,31,28,Spouses-1 older
+KwaZulu-Natal,April,2018,34,31,Spouses-1 older
+KwaZulu-Natal,May,2018,60,45,Spouses-1 older
+KwaZulu-Natal,May,2018,31,31,Spouses same age
+KwaZulu-Natal,May,2018,90,55,Spouses-1 older
+KwaZulu-Natal,June,2018,36,33,Spouses-1 older
+KwaZulu-Natal,June,2018,34,29,Spouses-1 older
+KwaZulu-Natal,June,2018,33,27,Spouses-1 older
+KwaZulu-Natal,June,2018,26,26,Spouses same age
+KwaZulu-Natal,June,2018,36,31,Spouses-1 older
+KwaZulu-Natal,July,2018,70,55,Spouses-1 older
+KwaZulu-Natal,July,2018,34,30,Spouses-1 older
+KwaZulu-Natal,July,2018,39,36,Spouses-1 older
+KwaZulu-Natal,July,2018,41,37,Spouses-1 older
+KwaZulu-Natal,July,2018,27,24,Spouses-1 older
+KwaZulu-Natal,August,2018,32,40,Spouses-1 younger
+KwaZulu-Natal,August,2018,29,28,Spouses-1 older
+KwaZulu-Natal,August,2018,31,37,Spouses-1 younger
+KwaZulu-Natal,August,2018,30,28,Spouses-1 older
+KwaZulu-Natal,August,2018,32,34,Spouses-1 younger
+KwaZulu-Natal,August,2018,33,34,Spouses-1 younger
+KwaZulu-Natal,September,2018,30,21,Spouses-1 older
+KwaZulu-Natal,September,2018,34,26,Spouses-1 older
+KwaZulu-Natal,September,2018,28,24,Spouses-1 older
+KwaZulu-Natal,September,2018,52,42,Spouses-1 older
+KwaZulu-Natal,September,2018,38,25,Spouses-1 older
+KwaZulu-Natal,October,2018,66,36,Spouses-1 older
+KwaZulu-Natal,October,2018,34,34,Spouses same age
+KwaZulu-Natal,October,2018,61,49,Spouses-1 older
+KwaZulu-Natal,November,2018,39,35,Spouses-1 older
+KwaZulu-Natal,November,2018,33,36,Spouses-1 younger
+KwaZulu-Natal,November,2018,49,52,Spouses-1 younger
+KwaZulu-Natal,November,2018,48,36,Spouses-1 older
+KwaZulu-Natal,December,2018,47,36,Spouses-1 older
+KwaZulu-Natal,December,2018,35,34,Spouses-1 older
+KwaZulu-Natal,December,2018,47,41,Spouses-1 older
+KwaZulu-Natal,December,2018,38,36,Spouses-1 older
+Western Cape,April,2018,42,50,Spouses-1 younger
+Western Cape,February,2018,32,25,Spouses-1 older
+Western Cape,April,2018,35,34,Spouses-1 older
+Western Cape,April,2018,75,66,Spouses-1 older
+Western Cape,April,2018,32,31,Spouses-1 older
+Western Cape,April,2018,33,32,Spouses-1 older
+Western Cape,April,2018,43,49,Spouses-1 younger
+Western Cape,April,2018,35,32,Spouses-1 older
+Western Cape,May,2018,30,33,Spouses-1 younger
+Western Cape,May,2018,26,25,Spouses-1 older
+Western Cape,July,2018,46,53,Spouses-1 younger
+Western Cape,July,2018,46,46,Spouses same age
+Western Cape,September,2018,44,50,Spouses-1 younger
+Western Cape,September,2018,27,25,Spouses-1 older
+Western Cape,September,2018,46,48,Spouses-1 younger
+Western Cape,October,2018,33,33,Spouses same age
+Western Cape,December,2018,36,36,Spouses same age
+Western Cape,December,2018,47,39,Spouses-1 older
+Eastern Cape,February,2018,36,32,Spouses-1 older
+Eastern Cape,February,2018,30,27,Spouses-1 older
+Eastern Cape,September,2018,39,34,Spouses-1 older
+Eastern Cape,September,2018,36,31,Spouses-1 older
+Eastern Cape,October,2018,34,25,Spouses-1 older
+Eastern Cape,November,2018,80,72,Spouses-1 older
+Eastern Cape,November,2018,26,25,Spouses-1 older
+Gauteng,April,2018,55,40,Spouses-1 older
+Gauteng,April,2018,34,41,Spouses-1 younger
+Gauteng,May,2018,49,45,Spouses-1 older
+Gauteng,June,2018,29,28,Spouses-1 older
+Gauteng,July,2018,45,50,Spouses-1 younger
+Gauteng,October,2018,22,23,Spouses-1 younger
+Gauteng,November,2018,48,45,Spouses-1 older
+Western Cape,October,2018,25,26,Spouses-1 younger
+Western Cape,November,2018,34,37,Spouses-1 younger
+Western Cape,December,2018,30,32,Spouses-1 younger
+Gauteng,March,2018,38,33,Spouses-1 older
+Western Cape,September,2018,39,36,Spouses-1 older
+Western Cape,September,2018,32,37,Spouses-1 younger
+Gauteng,November,2018,33,27,Spouses-1 older
+KwaZulu-Natal,November,2018,26,28,Spouses-1 younger
+Mpumalanga,April,2018,43,37,Spouses-1 older
+KwaZulu-Natal,July,2018,38,38,Spouses same age
+KwaZulu-Natal,July,2018,50,52,Spouses-1 younger
+KwaZulu-Natal,September,2018,47,42,Spouses-1 older
+Mpumalanga,April,2018,30,44,Spouses-1 younger
+Mpumalanga,April,2018,41,33,Spouses-1 older
+Mpumalanga,November,2018,36,24,Spouses-1 older
+KwaZulu-Natal,February,2018,30,30,Spouses same age
+KwaZulu-Natal,May,2018,26,28,Spouses-1 younger
+Western Cape,May,2018,29,35,Spouses-1 younger
+Gauteng,February,2018,51,56,Spouses-1 younger
+Gauteng,May,2018,43,40,Spouses-1 older
+Western Cape,December,2018,34,29,Spouses-1 older
+Western Cape,December,2018,35,53,Spouses-1 younger
+Western Cape,March,2018,48,34,Spouses-1 older
+Western Cape,April,2018,35,38,Spouses-1 younger
+Western Cape,September,2018,31,33,Spouses-1 younger
+Western Cape,December,2018,29,24,Spouses-1 older
+Western Cape,December,2018,33,32,Spouses-1 older
+Western Cape,March,2018,36,41,Spouses-1 younger
+Western Cape,August,2018,43,38,Spouses-1 older
+Western Cape,September,2018,30,32,Spouses-1 younger
+Western Cape,October,2018,29,28,Spouses-1 older
+Western Cape,December,2018,31,31,Spouses same age
+Western Cape,December,2018,22,30,Spouses-1 younger
+Western Cape,March,2018,40,34,Spouses-1 older
+KwaZulu-Natal,February,2018,32,24,Spouses-1 older
+Western Cape,June,2018,37,32,Spouses-1 older
+Western Cape,March,2018,39,45,Spouses-1 younger
+Western Cape,April,2018,60,64,Spouses-1 younger
+Western Cape,May,2018,39,32,Spouses-1 older
+Western Cape,June,2018,48,40,Spouses-1 older
+Western Cape,June,2018,25,25,Spouses same age
+Western Cape,August,2018,71,47,Spouses-1 older
+Western Cape,August,2018,33,25,Spouses-1 older
+Western Cape,August,2018,34,41,Spouses-1 younger
+Western Cape,October,2018,38,34,Spouses-1 older
+Western Cape,October,2018,37,30,Spouses-1 older
+Western Cape,October,2018,33,24,Spouses-1 older
+Western Cape,November,2018,76,49,Spouses-1 older
+Western Cape,November,2018,27,33,Spouses-1 younger
+Western Cape,November,2018,34,35,Spouses-1 younger
+Western Cape,December,2018,40,39,Spouses-1 older
+Western Cape,December,2018,36,25,Spouses-1 older
+Gauteng,February,2018,29,29,Spouses same age
+Gauteng,June,2018,65,62,Spouses-1 older
+Gauteng,September,2018,74,62,Spouses-1 older
+Gauteng,September,2018,46,49,Spouses-1 younger
+Gauteng,October,2018,46,26,Spouses-1 older
+KwaZulu-Natal,April,2018,44,44,Spouses same age
+Western Cape,November,2018,37,41,Spouses-1 younger
+Western Cape,January,2018,43,49,Spouses-1 younger
+Western Cape,December,2018,29,35,Spouses-1 younger
+Western Cape,March,2018,34,25,Spouses-1 older
+Western Cape,June,2018,57,62,Spouses-1 younger
+Western Cape,November,2018,39,32,Spouses-1 older
+Western Cape,October,2018,36,33,Spouses-1 older
+Limpopo,March,2018,29,29,Spouses same age
+Northern Cape,April,2018,27,23,Spouses-1 older
+Limpopo,May,2018,31,29,Spouses-1 older
+Gauteng,October,2018,28,30,Spouses-1 younger
+North West,January,2018,40,41,Spouses-1 younger
+North West,January,2018,37,38,Spouses-1 younger
+North West,April,2018,33,33,Spouses same age
+North West,October,2018,43,42,Spouses-1 older
+North West,November,2018,28,23,Spouses-1 older
+North West,December,2018,26,27,Spouses-1 younger
+North West,March,2018,28,28,Spouses same age
+North West,August,2018,30,33,Spouses-1 younger
+Gauteng,December,2018,47,40,Spouses-1 older
+Gauteng,April,2018,24,26,Spouses-1 younger
+Gauteng,August,2018,49,40,Spouses-1 older
+Gauteng,October,2018,32,31,Spouses-1 older
+Gauteng,November,2018,32,23,Spouses-1 older
+Western Cape,April,2018,56,52,Spouses-1 older
+Western Cape,December,2018,56,46,Spouses-1 older
+Western Cape,October,2018,41,42,Spouses-1 younger
+KwaZulu-Natal,March,2018,30,34,Spouses-1 younger
+KwaZulu-Natal,June,2018,44,34,Spouses-1 older
+KwaZulu-Natal,September,2018,51,54,Spouses-1 younger
+KwaZulu-Natal,February,2018,54,60,Spouses-1 younger
+KwaZulu-Natal,June,2018,39,36,Spouses-1 older
+Eastern Cape,February,2018,46,31,Spouses-1 older
+Eastern Cape,November,2018,47,37,Spouses-1 older
+Western Cape,June,2018,56,50,Spouses-1 older
+Western Cape,October,2018,38,36,Spouses-1 older
+KwaZulu-Natal,December,2018,31,38,Spouses-1 younger
+KwaZulu-Natal,February,2018,52,34,Spouses-1 older
+KwaZulu-Natal,March,2018,31,30,Spouses-1 older
+KwaZulu-Natal,April,2018,31,26,Spouses-1 older
+KwaZulu-Natal,July,2018,31,33,Spouses-1 younger
+KwaZulu-Natal,September,2018,44,42,Spouses-1 older
+KwaZulu-Natal,September,2018,46,29,Spouses-1 older
+KwaZulu-Natal,October,2018,42,38,Spouses-1 older
+Gauteng,December,2018,31,35,Spouses-1 younger
+Eastern Cape,April,2018,76,63,Spouses-1 older
+Gauteng,November,2018,46,42,Spouses-1 older
+Gauteng,February,2018,38,46,Spouses-1 younger
+Gauteng,June,2018,34,45,Spouses-1 younger
+Gauteng,November,2018,45,48,Spouses-1 younger
+Gauteng,December,2018,23,24,Spouses-1 younger
+Gauteng,December,2018,44,29,Spouses-1 older
+Gauteng,December,2018,29,27,Spouses-1 older
+Gauteng,December,2018,34,21,Spouses-1 older
+Gauteng,December,2018,44,40,Spouses-1 older
+Gauteng,December,2018,31,36,Spouses-1 younger
+Gauteng,January,2018,42,41,Spouses-1 older
+Gauteng,January,2018,44,38,Spouses-1 older
+Gauteng,January,2018,36,33,Spouses-1 older
+Gauteng,January,2018,48,49,Spouses-1 younger
+Gauteng,January,2018,39,40,Spouses-1 younger
+Gauteng,January,2018,71,75,Spouses-1 younger
+Gauteng,January,2018,47,31,Spouses-1 older
+Gauteng,February,2018,37,40,Spouses-1 younger
+Gauteng,February,2018,25,27,Spouses-1 younger
+Gauteng,February,2018,59,48,Spouses-1 older
+Gauteng,February,2018,47,48,Spouses-1 younger
+Gauteng,February,2018,35,35,Spouses same age
+Gauteng,February,2018,62,47,Spouses-1 older
+Gauteng,February,2018,60,44,Spouses-1 older
+Gauteng,February,2018,27,33,Spouses-1 younger
+Gauteng,March,2018,29,29,Spouses same age
+Gauteng,March,2018,45,30,Spouses-1 older
+Gauteng,March,2018,46,40,Spouses-1 older
+Gauteng,March,2018,32,29,Spouses-1 older
+Gauteng,March,2018,44,28,Spouses-1 older
+Gauteng,March,2018,33,33,Spouses same age
+Gauteng,March,2018,49,44,Spouses-1 older
+Gauteng,March,2018,32,28,Spouses-1 older
+Gauteng,April,2018,36,33,Spouses-1 older
+Gauteng,April,2018,64,66,Spouses-1 younger
+Gauteng,April,2018,46,37,Spouses-1 older
+Gauteng,April,2018,37,36,Spouses-1 older
+Gauteng,April,2018,47,42,Spouses-1 older
+Gauteng,April,2018,39,35,Spouses-1 older
+Gauteng,April,2018,36,34,Spouses-1 older
+Gauteng,April,2018,34,40,Spouses-1 younger
+Gauteng,April,2018,41,39,Spouses-1 older
+Gauteng,April,2018,50,47,Spouses-1 older
+Gauteng,April,2018,44,39,Spouses-1 older
+Gauteng,April,2018,31,32,Spouses-1 younger
+Gauteng,April,2018,25,28,Spouses-1 younger
+Gauteng,April,2018,62,54,Spouses-1 older
+Gauteng,April,2018,40,29,Spouses-1 older
+Gauteng,May,2018,30,26,Spouses-1 older
+Gauteng,May,2018,29,31,Spouses-1 younger
+Gauteng,May,2018,32,40,Spouses-1 younger
+Gauteng,May,2018,36,39,Spouses-1 younger
+Gauteng,May,2018,32,38,Spouses-1 younger
+Gauteng,May,2018,37,37,Spouses same age
+Gauteng,May,2018,23,28,Spouses-1 younger
+Gauteng,May,2018,39,48,Spouses-1 younger
+Gauteng,May,2018,36,32,Spouses-1 older
+Gauteng,May,2018,30,24,Spouses-1 older
+Gauteng,May,2018,44,40,Spouses-1 older
+Gauteng,May,2018,38,38,Spouses same age
+Gauteng,May,2018,33,30,Spouses-1 older
+Gauteng,May,2018,37,27,Spouses-1 older
+Gauteng,June,2018,43,47,Spouses-1 younger
+Gauteng,June,2018,46,35,Spouses-1 older
+Gauteng,June,2018,54,34,Spouses-1 older
+Gauteng,June,2018,46,46,Spouses same age
+Gauteng,June,2018,21,19,Spouses-1 older
+Gauteng,June,2018,33,32,Spouses-1 older
+Gauteng,July,2018,34,45,Spouses-1 younger
+Gauteng,July,2018,49,37,Spouses-1 older
+Gauteng,July,2018,45,32,Spouses-1 older
+Gauteng,July,2018,33,31,Spouses-1 older
+Gauteng,July,2018,64,52,Spouses-1 older
+Gauteng,July,2018,36,39,Spouses-1 younger
+Gauteng,July,2018,39,36,Spouses-1 older
+Gauteng,July,2018,50,54,Spouses-1 younger
+Gauteng,July,2018,45,51,Spouses-1 younger
+Gauteng,July,2018,33,36,Spouses-1 younger
+Gauteng,July,2018,30,31,Spouses-1 younger
+Gauteng,July,2018,31,38,Spouses-1 younger
+Gauteng,July,2018,48,42,Spouses-1 older
+Gauteng,August,2018,30,40,Spouses-1 younger
+Gauteng,August,2018,30,30,Spouses same age
+Gauteng,August,2018,44,38,Spouses-1 older
+Gauteng,August,2018,35,34,Spouses-1 older
+Gauteng,August,2018,42,42,Spouses same age
+Gauteng,August,2018,33,31,Spouses-1 older
+Gauteng,September,2018,37,37,Spouses same age
+Gauteng,September,2018,28,42,Spouses-1 younger
+Gauteng,September,2018,34,54,Spouses-1 younger
+Gauteng,September,2018,39,36,Spouses-1 older
+Gauteng,September,2018,33,29,Spouses-1 older
+Gauteng,September,2018,32,31,Spouses-1 older
+Gauteng,September,2018,37,35,Spouses-1 older
+Gauteng,September,2018,50,42,Spouses-1 older
+Gauteng,September,2018,37,36,Spouses-1 older
+Gauteng,September,2018,30,23,Spouses-1 older
+Gauteng,September,2018,28,31,Spouses-1 younger
+Gauteng,September,2018,31,27,Spouses-1 older
+Gauteng,September,2018,25,48,Spouses-1 younger
+Gauteng,September,2018,39,39,Spouses same age
+Gauteng,September,2018,30,26,Spouses-1 older
+Gauteng,September,2018,40,41,Spouses-1 younger
+Gauteng,September,2018,38,46,Spouses-1 younger
+Gauteng,October,2018,35,34,Spouses-1 older
+Gauteng,October,2018,21,31,Spouses-1 younger
+Gauteng,October,2018,36,29,Spouses-1 older
+Gauteng,October,2018,37,37,Spouses same age
+Gauteng,October,2018,29,32,Spouses-1 younger
+Gauteng,October,2018,33,38,Spouses-1 younger
+Gauteng,October,2018,39,40,Spouses-1 younger
+Gauteng,October,2018,33,24,Spouses-1 older
+Gauteng,October,2018,34,27,Spouses-1 older
+Gauteng,October,2018,28,27,Spouses-1 older
+Gauteng,October,2018,50,53,Spouses-1 younger
+Gauteng,October,2018,30,53,Spouses-1 younger
+Gauteng,October,2018,39,35,Spouses-1 older
+Gauteng,October,2018,33,34,Spouses-1 younger
+Gauteng,November,2018,46,43,Spouses-1 older
+Gauteng,November,2018,26,27,Spouses-1 younger
+Gauteng,November,2018,40,32,Spouses-1 older
+Gauteng,November,2018,37,36,Spouses-1 older
+Gauteng,November,2018,48,39,Spouses-1 older
+Gauteng,November,2018,33,33,Spouses same age
+Gauteng,November,2018,56,37,Spouses-1 older
+Gauteng,November,2018,24,24,Spouses same age
+Gauteng,November,2018,28,26,Spouses-1 older
+Gauteng,November,2018,46,41,Spouses-1 older
+Gauteng,November,2018,36,34,Spouses-1 older
+Gauteng,December,2018,43,42,Spouses-1 older
+Gauteng,December,2018,36,33,Spouses-1 older
+Gauteng,December,2018,33,28,Spouses-1 older
+Gauteng,December,2018,54,41,Spouses-1 older
+Gauteng,December,2018,52,50,Spouses-1 older
+Eastern Cape,June,2018,49,62,Spouses-1 younger
+Mpumalanga,November,2018,33,32,Spouses-1 older
+Western Cape,August,2018,38,36,Spouses-1 older
+Gauteng,March,2018,35,29,Spouses-1 older
+Gauteng,April,2018,47,37,Spouses-1 older
+Gauteng,April,2018,30,26,Spouses-1 older
+Gauteng,August,2018,43,37,Spouses-1 older
+Gauteng,September,2018,27,29,Spouses-1 younger
+Gauteng,October,2018,22,27,Spouses-1 younger
+Gauteng,November,2018,41,21,Spouses-1 older
+Gauteng,January,2018,75,75,Spouses same age
+Northern Cape,February,2018,22,28,Spouses-1 younger
+Northern Cape,March,2018,25,22,Spouses-1 older
+Northern Cape,April,2018,29,34,Spouses-1 younger
+Northern Cape,April,2018,45,41,Spouses-1 older
+Northern Cape,April,2018,34,33,Spouses-1 older
+Northern Cape,July,2018,38,32,Spouses-1 older
+Northern Cape,July,2018,40,36,Spouses-1 older
+Northern Cape,August,2018,27,29,Spouses-1 younger
+Northern Cape,December,2018,30,29,Spouses-1 older
+Western Cape,June,2018,48,39,Spouses-1 older
+Western Cape,August,2018,33,28,Spouses-1 older
+Western Cape,November,2018,50,53,Spouses-1 younger
+North West,May,2018,56,60,Spouses-1 younger
+North West,July,2018,31,28,Spouses-1 older
+North West,August,2018,45,53,Spouses-1 younger
+North West,September,2018,44,39,Spouses-1 older
+North West,September,2018,31,23,Spouses-1 older
+North West,September,2018,26,28,Spouses-1 younger
+North West,September,2018,37,29,Spouses-1 older
+North West,November,2018,41,44,Spouses-1 younger
+North West,November,2018,24,30,Spouses-1 younger
+North West,November,2018,78,23,Spouses-1 older
+North West,November,2018,41,30,Spouses-1 older
+Western Cape,November,2018,54,39,Spouses-1 older
+KwaZulu-Natal,November,2018,56,55,Spouses-1 older
+Mpumalanga,January,2018,42,59,Spouses-1 younger
+KwaZulu-Natal,August,2018,42,45,Spouses-1 younger
+Western Cape,April,2018,41,39,Spouses-1 older
+Western Cape,August,2018,54,37,Spouses-1 older
+Free State,April,2018,49,52,Spouses-1 younger
+Gauteng,December,2018,37,46,Spouses-1 younger
+Gauteng,January,2018,28,24,Spouses-1 older
+Gauteng,January,2018,41,35,Spouses-1 older
+Gauteng,January,2018,25,31,Spouses-1 younger
+Gauteng,February,2018,47,47,Spouses same age
+Gauteng,February,2018,47,46,Spouses-1 older
+Gauteng,February,2018,53,69,Spouses-1 younger
+Gauteng,April,2018,32,30,Spouses-1 older
+Gauteng,May,2018,56,52,Spouses-1 older
+Gauteng,June,2018,43,35,Spouses-1 older
+Gauteng,June,2018,31,27,Spouses-1 older
+Gauteng,August,2018,49,47,Spouses-1 older
+Gauteng,September,2018,31,31,Spouses same age
+Gauteng,September,2018,29,32,Spouses-1 younger
+Gauteng,October,2018,52,45,Spouses-1 older
+Gauteng,October,2018,57,34,Spouses-1 older
+Gauteng,October,2018,31,24,Spouses-1 older
+Gauteng,November,2018,54,48,Spouses-1 older
+Gauteng,December,2018,34,22,Spouses-1 older
+Gauteng,December,2018,47,38,Spouses-1 older
+Western Cape,November,2018,49,30,Spouses-1 older
+Western Cape,March,2018,27,25,Spouses-1 older
+Western Cape,October,2018,28,40,Spouses-1 younger
+Western Cape,December,2018,30,26,Spouses-1 older
+Northern Cape,August,2018,31,30,Spouses-1 older
+KwaZulu-Natal,December,2018,38,32,Spouses-1 older
+KwaZulu-Natal,May,2018,31,29,Spouses-1 older
+Western Cape,February,2018,54,28,Spouses-1 older
+Western Cape,November,2018,34,46,Spouses-1 younger
+Gauteng,September,2018,26,26,Spouses same age
+Gauteng,October,2018,42,41,Spouses-1 older
+North West,May,2018,44,43,Spouses-1 older
+Gauteng,December,2018,32,27,Spouses-1 older
+North West,May,2018,55,45,Spouses-1 older
+Gauteng,July,2018,77,54,Spouses-1 older
+Gauteng,November,2018,34,32,Spouses-1 older
+Outside RSA,March,2018,46,42,Spouses-1 older
+Mpumalanga,October,2018,36,25,Spouses-1 older
+Western Cape,May,2018,59,41,Spouses-1 older
+KwaZulu-Natal,December,2018,40,33,Spouses-1 older
+Gauteng,March,2018,36,31,Spouses-1 older
+Gauteng,January,2018,30,30,Spouses same age
+Mpumalanga,November,2018,31,33,Spouses-1 younger
+Gauteng,August,2018,32,29,Spouses-1 older
+KwaZulu-Natal,December,2018,64,21,Spouses-1 older
+Mpumalanga,October,2018,30,39,Spouses-1 younger
+Mpumalanga,November,2018,60,59,Spouses-1 older
+North West,October,2018,35,54,Spouses-1 younger
+Western Cape,October,2018,55,64,Spouses-1 younger
+Gauteng,October,2018,26,30,Spouses-1 younger
+Gauteng,September,2018,37,29,Spouses-1 older
+Gauteng,January,2018,45,47,Spouses-1 younger
+Gauteng,April,2018,28,30,Spouses-1 younger
+Gauteng,June,2018,39,50,Spouses-1 younger
+Mpumalanga,November,2018,62,41,Spouses-1 older
+Mpumalanga,December,2018,49,50,Spouses-1 younger
+Mpumalanga,March,2018,31,29,Spouses-1 older
+Mpumalanga,May,2018,39,29,Spouses-1 older
+Mpumalanga,October,2018,51,34,Spouses-1 older
+Gauteng,February,2018,59,59,Spouses same age
+Gauteng,February,2018,29,31,Spouses-1 younger
+Gauteng,April,2018,30,28,Spouses-1 older
+Gauteng,July,2018,30,30,Spouses same age
+Gauteng,October,2018,58,53,Spouses-1 older
+Gauteng,August,2018,48,39,Spouses-1 older
+Gauteng,September,2018,43,46,Spouses-1 younger
+Western Cape,December,2018,54,50,Spouses-1 older
+Western Cape,April,2018,35,27,Spouses-1 older
+Western Cape,November,2018,28,26,Spouses-1 older
+Western Cape,December,2018,24,25,Spouses-1 younger
+Western Cape,December,2018,30,34,Spouses-1 younger
+Limpopo,March,2018,37,26,Spouses-1 older
+Limpopo,October,2018,46,42,Spouses-1 older
+Limpopo,November,2018,27,37,Spouses-1 younger
+Limpopo,November,2018,33,32,Spouses-1 older
+Limpopo,January,2018,26,29,Spouses-1 younger
+Gauteng,December,2018,37,32,Spouses-1 older
+Western Cape,December,2018,32,29,Spouses-1 older
+Limpopo,July,2018,67,64,Spouses-1 older
+Gauteng,September,2018,35,33,Spouses-1 older
+KwaZulu-Natal,December,2018,41,54,Spouses-1 younger
+Western Cape,March,2018,28,30,Spouses-1 younger
+Gauteng,April,2018,31,34,Spouses-1 younger
+Gauteng,December,2018,37,32,Spouses-1 older
+Gauteng,December,2018,42,40,Spouses-1 older
+Gauteng,January,2018,35,34,Spouses-1 older
+Gauteng,January,2018,61,46,Spouses-1 older
+Gauteng,March,2018,32,34,Spouses-1 younger
+Gauteng,March,2018,50,67,Spouses-1 younger
+Gauteng,April,2018,54,51,Spouses-1 older
+Gauteng,April,2018,27,29,Spouses-1 younger
+Gauteng,May,2018,28,27,Spouses-1 older
+Gauteng,May,2018,30,34,Spouses-1 younger
+Gauteng,June,2018,21,28,Spouses-1 younger
+Gauteng,July,2018,33,36,Spouses-1 younger
+Gauteng,July,2018,43,46,Spouses-1 younger
+Gauteng,August,2018,28,27,Spouses-1 older
+Gauteng,September,2018,30,30,Spouses same age
+Gauteng,September,2018,37,32,Spouses-1 older
+Gauteng,October,2018,49,46,Spouses-1 older
+Gauteng,October,2018,35,32,Spouses-1 older
+Gauteng,November,2018,25,24,Spouses-1 older
+Mpumalanga,September,2018,47,45,Spouses-1 older
+Mpumalanga,January,2018,32,26,Spouses-1 older
+Mpumalanga,January,2018,50,49,Spouses-1 older
+Mpumalanga,March,2018,35,49,Spouses-1 younger
+Mpumalanga,June,2018,38,34,Spouses-1 older
+Mpumalanga,July,2018,37,42,Spouses-1 younger
+Outside RSA,June,2018,31,31,Spouses same age
+KwaZulu-Natal,March,2018,30,25,Spouses-1 older
+Gauteng,January,2018,43,30,Spouses-1 older
+Gauteng,February,2018,39,56,Spouses-1 younger
+Gauteng,April,2018,36,34,Spouses-1 older
+Gauteng,August,2018,36,38,Spouses-1 younger
+Gauteng,August,2018,27,23,Spouses-1 older
+Gauteng,September,2018,59,27,Spouses-1 older
+Gauteng,September,2018,50,32,Spouses-1 older
+Gauteng,November,2018,37,48,Spouses-1 younger
+Western Cape,April,2018,28,30,Spouses-1 younger
+Western Cape,April,2018,48,51,Spouses-1 younger
+Gauteng,June,2018,30,34,Spouses-1 younger
+Gauteng,September,2018,45,55,Spouses-1 younger
+Gauteng,November,2018,49,45,Spouses-1 older
+Gauteng,November,2018,27,27,Spouses same age
+KwaZulu-Natal,February,2018,35,29,Spouses-1 older
+KwaZulu-Natal,March,2018,35,32,Spouses-1 older
+KwaZulu-Natal,March,2018,38,34,Spouses-1 older
+KwaZulu-Natal,June,2018,30,30,Spouses same age
+KwaZulu-Natal,December,2018,36,33,Spouses-1 older
+Western Cape,August,2018,27,25,Spouses-1 older
+Western Cape,April,2018,67,50,Spouses-1 older
+Western Cape,May,2018,38,41,Spouses-1 younger
+Western Cape,September,2018,33,29,Spouses-1 older
+Western Cape,November,2018,44,57,Spouses-1 younger
+Western Cape,December,2018,30,29,Spouses-1 older
+Western Cape,December,2018,59,36,Spouses-1 older
+Western Cape,December,2018,31,28,Spouses-1 older
+Western Cape,January,2018,46,56,Spouses-1 younger
+Western Cape,February,2018,25,33,Spouses-1 younger
+Western Cape,February,2018,29,28,Spouses-1 older
+Western Cape,February,2018,32,37,Spouses-1 younger
+Western Cape,March,2018,37,37,Spouses same age
+Western Cape,March,2018,33,32,Spouses-1 older
+Western Cape,March,2018,30,38,Spouses-1 younger
+Western Cape,March,2018,50,25,Spouses-1 older
+Western Cape,March,2018,38,29,Spouses-1 older
+Western Cape,April,2018,39,29,Spouses-1 older
+Western Cape,April,2018,27,30,Spouses-1 younger
+Western Cape,April,2018,44,36,Spouses-1 older
+Western Cape,April,2018,25,25,Spouses same age
+Western Cape,May,2018,38,42,Spouses-1 younger
+Western Cape,May,2018,27,37,Spouses-1 younger
+Western Cape,May,2018,54,46,Spouses-1 older
+Western Cape,June,2018,55,35,Spouses-1 older
+Western Cape,July,2018,29,29,Spouses same age
+Western Cape,July,2018,54,37,Spouses-1 older
+Western Cape,July,2018,26,25,Spouses-1 older
+Western Cape,July,2018,37,46,Spouses-1 younger
+Western Cape,July,2018,68,59,Spouses-1 older
+Western Cape,July,2018,65,61,Spouses-1 older
+Western Cape,August,2018,44,43,Spouses-1 older
+Western Cape,August,2018,32,25,Spouses-1 older
+Western Cape,August,2018,30,31,Spouses-1 younger
+Western Cape,August,2018,31,43,Spouses-1 younger
+Western Cape,August,2018,35,28,Spouses-1 older
+Western Cape,August,2018,29,26,Spouses-1 older
+Western Cape,August,2018,46,27,Spouses-1 older
+Western Cape,August,2018,32,35,Spouses-1 younger
+Western Cape,September,2018,59,53,Spouses-1 older
+Western Cape,September,2018,27,28,Spouses-1 younger
+Western Cape,October,2018,40,42,Spouses-1 younger
+Western Cape,October,2018,31,24,Spouses-1 older
+Western Cape,November,2018,21,20,Spouses-1 older
+Western Cape,November,2018,31,25,Spouses-1 older
+Western Cape,November,2018,44,29,Spouses-1 older
+Western Cape,November,2018,28,23,Spouses-1 older
+Western Cape,November,2018,39,29,Spouses-1 older
+Western Cape,December,2018,27,29,Spouses-1 younger
+Western Cape,December,2018,34,39,Spouses-1 younger
+Northern Cape,November,2018,33,39,Spouses-1 younger
+Western Cape,February,2018,41,40,Spouses-1 older
+KwaZulu-Natal,December,2018,46,53,Spouses-1 younger
+Gauteng,March,2018,35,30,Spouses-1 older
+Western Cape,March,2018,38,46,Spouses-1 younger
+Western Cape,June,2018,40,40,Spouses same age
+KwaZulu-Natal,September,2018,20,32,Spouses-1 younger
+Western Cape,March,2018,25,27,Spouses-1 younger
+Western Cape,July,2018,27,27,Spouses same age
+Free State,October,2018,47,49,Spouses-1 younger
+Free State,January,2018,68,45,Spouses-1 older
+Free State,April,2018,33,31,Spouses-1 older
+Western Cape,May,2018,44,38,Spouses-1 older
+Western Cape,September,2018,33,30,Spouses-1 older
+Western Cape,November,2018,40,50,Spouses-1 younger
+Western Cape,March,2018,37,35,Spouses-1 older
+KwaZulu-Natal,March,2018,37,26,Spouses-1 older
+KwaZulu-Natal,March,2018,42,34,Spouses-1 older
+KwaZulu-Natal,May,2018,31,33,Spouses-1 younger
+KwaZulu-Natal,November,2018,32,25,Spouses-1 older
+KwaZulu-Natal,November,2018,39,24,Spouses-1 older
+KwaZulu-Natal,December,2018,30,29,Spouses-1 older
+KwaZulu-Natal,December,2018,60,52,Spouses-1 older
+Western Cape,February,2018,53,47,Spouses-1 older
+KwaZulu-Natal,August,2018,41,36,Spouses-1 older
+KwaZulu-Natal,January,2018,34,37,Spouses-1 younger
+KwaZulu-Natal,February,2018,52,45,Spouses-1 older
+KwaZulu-Natal,May,2018,28,31,Spouses-1 younger
+KwaZulu-Natal,September,2018,27,33,Spouses-1 younger
+KwaZulu-Natal,October,2018,24,37,Spouses-1 younger
+KwaZulu-Natal,October,2018,40,37,Spouses-1 older
+Western Cape,May,2018,33,51,Spouses-1 younger
+Western Cape,June,2018,45,39,Spouses-1 older
+KwaZulu-Natal,August,2018,40,56,Spouses-1 younger
+Eastern Cape,November,2018,57,41,Spouses-1 older
+Eastern Cape,January,2018,41,45,Spouses-1 younger
+Eastern Cape,February,2018,32,42,Spouses-1 younger
+Eastern Cape,February,2018,29,28,Spouses-1 older
+Eastern Cape,March,2018,44,55,Spouses-1 younger
+Eastern Cape,March,2018,28,31,Spouses-1 younger
+Eastern Cape,March,2018,45,32,Spouses-1 older
+Eastern Cape,April,2018,24,29,Spouses-1 younger
+Eastern Cape,April,2018,36,44,Spouses-1 younger
+Eastern Cape,May,2018,33,29,Spouses-1 older
+Eastern Cape,June,2018,65,67,Spouses-1 younger
+Eastern Cape,July,2018,25,28,Spouses-1 younger
+Eastern Cape,July,2018,35,31,Spouses-1 older
+Eastern Cape,August,2018,68,73,Spouses-1 younger
+Eastern Cape,August,2018,51,40,Spouses-1 older
+Eastern Cape,September,2018,68,60,Spouses-1 older
+Eastern Cape,September,2018,42,27,Spouses-1 older
+Eastern Cape,September,2018,34,33,Spouses-1 older
+Eastern Cape,September,2018,53,53,Spouses same age
+Eastern Cape,September,2018,41,32,Spouses-1 older
+Eastern Cape,September,2018,26,27,Spouses-1 younger
+Eastern Cape,September,2018,29,29,Spouses same age
+Eastern Cape,October,2018,25,30,Spouses-1 younger
+Eastern Cape,October,2018,38,48,Spouses-1 younger
+Eastern Cape,October,2018,31,28,Spouses-1 older
+Eastern Cape,October,2018,30,33,Spouses-1 younger
+Eastern Cape,November,2018,34,22,Spouses-1 older
+Eastern Cape,December,2018,29,30,Spouses-1 younger
+Eastern Cape,December,2018,40,46,Spouses-1 younger
+Eastern Cape,December,2018,23,24,Spouses-1 younger
+KwaZulu-Natal,January,2018,37,37,Spouses same age
+KwaZulu-Natal,March,2018,47,32,Spouses-1 older
+KwaZulu-Natal,September,2018,31,28,Spouses-1 older
+KwaZulu-Natal,September,2018,38,52,Spouses-1 younger
+KwaZulu-Natal,November,2018,68,65,Spouses-1 older
+Western Cape,July,2018,42,29,Spouses-1 older
+Northern Cape,March,2018,37,34,Spouses-1 older
+Northern Cape,September,2018,28,24,Spouses-1 older
+Northern Cape,December,2018,28,21,Spouses-1 older
+North West,September,2018,33,34,Spouses-1 younger
+North West,September,2018,27,34,Spouses-1 younger
+North West,October,2018,43,62,Spouses-1 younger
+Gauteng,July,2018,50,47,Spouses-1 older
+Gauteng,July,2018,54,36,Spouses-1 older
+Gauteng,August,2018,36,29,Spouses-1 older
+Gauteng,September,2018,30,29,Spouses-1 older
+Gauteng,October,2018,50,52,Spouses-1 younger
+Gauteng,November,2018,34,25,Spouses-1 older
+Gauteng,December,2018,23,19,Spouses-1 older
+Gauteng,December,2018,27,27,Spouses same age
+Gauteng,December,2018,62,46,Spouses-1 older
+Gauteng,December,2018,39,28,Spouses-1 older
+Gauteng,December,2018,32,27,Spouses-1 older
+Gauteng,December,2018,24,27,Spouses-1 younger
+Gauteng,December,2018,34,34,Spouses same age
+Gauteng,December,2018,60,50,Spouses-1 older
+Gauteng,January,2018,56,53,Spouses-1 older
+Gauteng,January,2018,52,50,Spouses-1 older
+Gauteng,January,2018,25,24,Spouses-1 older
+Gauteng,January,2018,55,46,Spouses-1 older
+Gauteng,January,2018,50,50,Spouses same age
+Gauteng,January,2018,49,48,Spouses-1 older
+Gauteng,February,2018,27,25,Spouses-1 older
+Gauteng,February,2018,46,32,Spouses-1 older
+Gauteng,February,2018,36,29,Spouses-1 older
+Gauteng,February,2018,34,41,Spouses-1 younger
+Gauteng,February,2018,70,53,Spouses-1 older
+Gauteng,February,2018,25,31,Spouses-1 younger
+Gauteng,February,2018,39,29,Spouses-1 older
+Gauteng,February,2018,29,29,Spouses same age
+Gauteng,February,2018,26,30,Spouses-1 younger
+Gauteng,February,2018,46,44,Spouses-1 older
+Gauteng,March,2018,34,31,Spouses-1 older
+Gauteng,March,2018,34,33,Spouses-1 older
+Gauteng,March,2018,45,39,Spouses-1 older
+Gauteng,March,2018,29,35,Spouses-1 younger
+Gauteng,March,2018,35,39,Spouses-1 younger
+Gauteng,March,2018,72,59,Spouses-1 older
+Gauteng,March,2018,36,32,Spouses-1 older
+Gauteng,March,2018,56,50,Spouses-1 older
+Gauteng,March,2018,33,29,Spouses-1 older
+Gauteng,March,2018,54,33,Spouses-1 older
+Gauteng,April,2018,39,28,Spouses-1 older
+Gauteng,April,2018,32,36,Spouses-1 younger
+Gauteng,April,2018,71,63,Spouses-1 older
+Gauteng,April,2018,35,36,Spouses-1 younger
+Gauteng,April,2018,31,31,Spouses same age
+Gauteng,April,2018,25,22,Spouses-1 older
+Gauteng,April,2018,55,43,Spouses-1 older
+Gauteng,April,2018,29,36,Spouses-1 younger
+Gauteng,April,2018,30,33,Spouses-1 younger
+Gauteng,April,2018,32,30,Spouses-1 older
+Gauteng,April,2018,31,29,Spouses-1 older
+Gauteng,April,2018,49,42,Spouses-1 older
+Gauteng,April,2018,41,36,Spouses-1 older
+Gauteng,April,2018,38,37,Spouses-1 older
+Gauteng,April,2018,36,31,Spouses-1 older
+Gauteng,April,2018,26,27,Spouses-1 younger
+Gauteng,April,2018,65,42,Spouses-1 older
+Gauteng,May,2018,56,50,Spouses-1 older
+Gauteng,May,2018,47,44,Spouses-1 older
+Gauteng,May,2018,50,33,Spouses-1 older
+Gauteng,May,2018,40,23,Spouses-1 older
+Gauteng,May,2018,53,47,Spouses-1 older
+Gauteng,May,2018,29,21,Spouses-1 older
+Gauteng,May,2018,59,34,Spouses-1 older
+Gauteng,May,2018,49,35,Spouses-1 older
+Gauteng,May,2018,37,52,Spouses-1 younger
+Gauteng,May,2018,56,54,Spouses-1 older
+Gauteng,May,2018,31,30,Spouses-1 older
+Gauteng,May,2018,29,33,Spouses-1 younger
+Gauteng,June,2018,44,43,Spouses-1 older
+Gauteng,June,2018,31,32,Spouses-1 younger
+Gauteng,June,2018,29,27,Spouses-1 older
+Gauteng,June,2018,41,50,Spouses-1 younger
+Gauteng,June,2018,54,49,Spouses-1 older
+Gauteng,June,2018,30,40,Spouses-1 younger
+Gauteng,June,2018,36,28,Spouses-1 older
+Gauteng,June,2018,38,35,Spouses-1 older
+Gauteng,June,2018,31,24,Spouses-1 older
+Gauteng,June,2018,34,28,Spouses-1 older
+Gauteng,July,2018,47,33,Spouses-1 older
+Gauteng,July,2018,47,47,Spouses same age
+Gauteng,July,2018,32,32,Spouses same age
+Gauteng,July,2018,41,34,Spouses-1 older
+Gauteng,July,2018,33,39,Spouses-1 younger
+Gauteng,July,2018,32,29,Spouses-1 older
+Gauteng,July,2018,36,30,Spouses-1 older
+Gauteng,August,2018,44,40,Spouses-1 older
+Gauteng,August,2018,28,41,Spouses-1 younger
+Gauteng,August,2018,29,29,Spouses same age
+Gauteng,August,2018,26,23,Spouses-1 older
+Gauteng,September,2018,36,29,Spouses-1 older
+Gauteng,September,2018,54,40,Spouses-1 older
+Gauteng,September,2018,56,55,Spouses-1 older
+Gauteng,September,2018,31,30,Spouses-1 older
+Gauteng,September,2018,32,27,Spouses-1 older
+Gauteng,September,2018,48,37,Spouses-1 older
+Gauteng,September,2018,29,27,Spouses-1 older
+Gauteng,September,2018,33,31,Spouses-1 older
+Gauteng,September,2018,44,32,Spouses-1 older
+Gauteng,September,2018,33,37,Spouses-1 younger
+Gauteng,September,2018,35,35,Spouses same age
+Gauteng,September,2018,27,30,Spouses-1 younger
+Gauteng,September,2018,32,33,Spouses-1 younger
+Gauteng,October,2018,35,33,Spouses-1 older
+Gauteng,October,2018,40,37,Spouses-1 older
+Gauteng,October,2018,31,33,Spouses-1 younger
+Gauteng,October,2018,39,39,Spouses same age
+Gauteng,October,2018,49,28,Spouses-1 older
+Gauteng,October,2018,35,41,Spouses-1 younger
+Gauteng,October,2018,60,52,Spouses-1 older
+Gauteng,October,2018,32,28,Spouses-1 older
+Gauteng,October,2018,41,44,Spouses-1 younger
+Gauteng,October,2018,43,47,Spouses-1 younger
+Gauteng,November,2018,29,26,Spouses-1 older
+Gauteng,November,2018,42,47,Spouses-1 younger
+Gauteng,November,2018,57,28,Spouses-1 older
+Gauteng,November,2018,40,27,Spouses-1 older
+Gauteng,November,2018,35,31,Spouses-1 older
+Gauteng,November,2018,29,22,Spouses-1 older
+Gauteng,December,2018,26,27,Spouses-1 younger
+Gauteng,December,2018,32,37,Spouses-1 younger
+Gauteng,December,2018,37,43,Spouses-1 younger
+Gauteng,December,2018,36,36,Spouses same age
+Gauteng,December,2018,29,24,Spouses-1 older
+Gauteng,December,2018,39,37,Spouses-1 older
+Gauteng,June,2018,38,31,Spouses-1 older
+Gauteng,October,2018,38,51,Spouses-1 younger
+Eastern Cape,April,2018,41,24,Spouses-1 older
+Eastern Cape,December,2018,32,31,Spouses-1 older
+KwaZulu-Natal,December,2018,32,26,Spouses-1 older
+Gauteng,January,2018,53,49,Spouses-1 older
+Gauteng,January,2018,30,30,Spouses same age
+Gauteng,January,2018,54,51,Spouses-1 older
+Gauteng,January,2018,43,45,Spouses-1 younger
+Gauteng,February,2018,41,35,Spouses-1 older
+Gauteng,February,2018,30,29,Spouses-1 older
+Gauteng,March,2018,58,46,Spouses-1 older
+Gauteng,March,2018,50,50,Spouses same age
+Gauteng,March,2018,68,65,Spouses-1 older
+Gauteng,March,2018,36,24,Spouses-1 older
+Gauteng,March,2018,37,39,Spouses-1 younger
+Gauteng,April,2018,25,26,Spouses-1 younger
+Gauteng,April,2018,42,46,Spouses-1 younger
+Gauteng,May,2018,31,36,Spouses-1 younger
+Gauteng,May,2018,22,41,Spouses-1 younger
+Gauteng,May,2018,31,28,Spouses-1 older
+Gauteng,May,2018,29,33,Spouses-1 younger
+Gauteng,May,2018,41,34,Spouses-1 older
+Gauteng,May,2018,38,41,Spouses-1 younger
+Gauteng,May,2018,52,53,Spouses-1 younger
+Gauteng,June,2018,28,28,Spouses same age
+Gauteng,June,2018,24,43,Spouses-1 younger
+Gauteng,June,2018,26,27,Spouses-1 younger
+Gauteng,July,2018,34,45,Spouses-1 younger
+Gauteng,July,2018,42,28,Spouses-1 older
+Gauteng,August,2018,58,55,Spouses-1 older
+Gauteng,August,2018,27,28,Spouses-1 younger
+Gauteng,August,2018,31,26,Spouses-1 older
+Gauteng,August,2018,34,37,Spouses-1 younger
+Gauteng,August,2018,35,38,Spouses-1 younger
+Gauteng,September,2018,31,29,Spouses-1 older
+Gauteng,September,2018,26,22,Spouses-1 older
+Gauteng,September,2018,30,30,Spouses same age
+Gauteng,September,2018,26,22,Spouses-1 older
+Gauteng,September,2018,45,42,Spouses-1 older
+Gauteng,September,2018,30,35,Spouses-1 younger
+Gauteng,October,2018,30,32,Spouses-1 younger
+Gauteng,November,2018,42,26,Spouses-1 older
+Gauteng,November,2018,38,32,Spouses-1 older
+Gauteng,November,2018,25,27,Spouses-1 younger
+Gauteng,November,2018,27,29,Spouses-1 younger
+Gauteng,December,2018,32,36,Spouses-1 younger
+Gauteng,December,2018,25,27,Spouses-1 younger
+Gauteng,May,2018,51,53,Spouses-1 younger
+Gauteng,November,2018,38,39,Spouses-1 younger
+Gauteng,November,2018,35,32,Spouses-1 older
+Gauteng,March,2018,36,38,Spouses-1 younger
+KwaZulu-Natal,August,2018,43,32,Spouses-1 older
+Western Cape,March,2018,31,34,Spouses-1 younger
+Western Cape,March,2018,28,26,Spouses-1 older
+Western Cape,November,2018,31,31,Spouses same age
+Western Cape,March,2018,26,41,Spouses-1 younger
+Western Cape,April,2018,46,38,Spouses-1 older
+Western Cape,June,2018,29,27,Spouses-1 older
+Western Cape,June,2018,29,29,Spouses same age
+Western Cape,July,2018,36,33,Spouses-1 older
+Western Cape,August,2018,27,27,Spouses same age
+Western Cape,September,2018,39,27,Spouses-1 older
+Gauteng,October,2018,26,25,Spouses-1 older
+Gauteng,September,2018,38,37,Spouses-1 older
+Western Cape,February,2018,34,30,Spouses-1 older
+Western Cape,April,2018,28,26,Spouses-1 older
+Gauteng,May,2018,57,47,Spouses-1 older
+Gauteng,June,2018,54,67,Spouses-1 younger
+Gauteng,July,2018,34,31,Spouses-1 older
+Gauteng,September,2018,31,36,Spouses-1 younger
+Gauteng,September,2018,28,48,Spouses-1 younger
+Gauteng,September,2018,31,33,Spouses-1 younger
+Gauteng,September,2018,31,29,Spouses-1 older
+Gauteng,October,2018,39,34,Spouses-1 older
+Gauteng,October,2018,29,29,Spouses same age
+Gauteng,December,2018,40,40,Spouses same age
+Unspecified,December,2018,24,30,Spouses-1 younger
+Unspecified,December,2018,64,60,Spouses-1 older
+Unspecified,May,2018,30,26,Spouses-1 older
+Unspecified,June,2018,27,25,Spouses-1 older
+Unspecified,July,2018,30,31,Spouses-1 younger
+Unspecified,August,2018,31,41,Spouses-1 younger
+Unspecified,August,2018,61,61,Spouses same age
+Unspecified,August,2018,27,42,Spouses-1 younger
+Unspecified,August,2018,55,48,Spouses-1 older
+Unspecified,August,2018,34,41,Spouses-1 younger
+Unspecified,August,2018,55,45,Spouses-1 older
+Unspecified,September,2018,37,41,Spouses-1 younger
+Unspecified,September,2018,32,34,Spouses-1 younger
+Unspecified,September,2018,31,25,Spouses-1 older
+Unspecified,September,2018,32,34,Spouses-1 younger
+Unspecified,September,2018,29,21,Spouses-1 older
+Unspecified,September,2018,33,34,Spouses-1 younger
+Unspecified,September,2018,43,36,Spouses-1 older
+Unspecified,September,2018,36,35,Spouses-1 older
+Unspecified,September,2018,61,45,Spouses-1 older
+Unspecified,September,2018,36,36,Spouses same age
+Unspecified,September,2018,36,41,Spouses-1 younger
+Unspecified,September,2018,36,30,Spouses-1 older
+Unspecified,October,2018,63,53,Spouses-1 older
+Unspecified,October,2018,46,42,Spouses-1 older
+Unspecified,October,2018,47,54,Spouses-1 younger
+Unspecified,October,2018,43,31,Spouses-1 older
+Unspecified,October,2018,40,41,Spouses-1 younger
+Unspecified,October,2018,53,51,Spouses-1 older
+Unspecified,October,2018,46,39,Spouses-1 older
+Unspecified,October,2018,33,32,Spouses-1 older
+Unspecified,October,2018,27,33,Spouses-1 younger
+Unspecified,October,2018,26,31,Spouses-1 younger
+Unspecified,October,2018,22,26,Spouses-1 younger
+Unspecified,November,2018,40,36,Spouses-1 older
+Unspecified,November,2018,27,38,Spouses-1 younger
+Unspecified,November,2018,53,50,Spouses-1 older
+Unspecified,November,2018,31,34,Spouses-1 younger
+Unspecified,November,2018,27,33,Spouses-1 younger
+Unspecified,November,2018,49,44,Spouses-1 older
+Unspecified,November,2018,32,34,Spouses-1 younger
+Unspecified,November,2018,29,27,Spouses-1 older
+Unspecified,November,2018,25,32,Spouses-1 younger
+Unspecified,December,2018,51,61,Spouses-1 younger
+Unspecified,December,2018,29,28,Spouses-1 older
+Gauteng,October,2018,36,21,Spouses-1 older
+North West,November,2018,46,35,Spouses-1 older
+North West,March,2018,36,34,Spouses-1 older
+North West,April,2018,36,40,Spouses-1 younger
+North West,September,2018,50,48,Spouses-1 older
+North West,October,2018,32,29,Spouses-1 older
+North West,December,2018,29,37,Spouses-1 younger
+North West,December,2018,33,39,Spouses-1 younger
+Western Cape,January,2018,37,30,Spouses-1 older
+Western Cape,November,2018,28,28,Spouses same age
+KwaZulu-Natal,March,2018,64,63,Spouses-1 older
+KwaZulu-Natal,April,2018,31,34,Spouses-1 younger
+KwaZulu-Natal,May,2018,27,28,Spouses-1 younger
+KwaZulu-Natal,July,2018,37,36,Spouses-1 older
+Gauteng,December,2018,41,35,Spouses-1 older
+Gauteng,April,2018,60,41,Spouses-1 older
+Gauteng,January,2018,56,50,Spouses-1 older
+Gauteng,March,2018,34,39,Spouses-1 younger
+Gauteng,March,2018,36,36,Spouses same age
+Gauteng,April,2018,32,42,Spouses-1 younger
+Gauteng,May,2018,36,34,Spouses-1 older
+Gauteng,May,2018,29,29,Spouses same age
+Gauteng,June,2018,32,30,Spouses-1 older
+Gauteng,June,2018,43,38,Spouses-1 older
+Gauteng,June,2018,53,50,Spouses-1 older
+Gauteng,June,2018,41,24,Spouses-1 older
+Gauteng,June,2018,29,29,Spouses same age
+Gauteng,August,2018,27,27,Spouses same age
+Gauteng,August,2018,40,38,Spouses-1 older
+Gauteng,September,2018,37,34,Spouses-1 older
+Gauteng,September,2018,32,27,Spouses-1 older
+Gauteng,September,2018,30,25,Spouses-1 older
+Gauteng,September,2018,42,35,Spouses-1 older
+Gauteng,September,2018,56,39,Spouses-1 older
+Gauteng,September,2018,56,56,Spouses same age
+Gauteng,September,2018,30,29,Spouses-1 older
+Gauteng,September,2018,45,55,Spouses-1 younger
+Gauteng,September,2018,45,49,Spouses-1 younger
+Gauteng,October,2018,45,27,Spouses-1 older
+Gauteng,October,2018,35,28,Spouses-1 older
+Gauteng,October,2018,31,32,Spouses-1 younger
+Gauteng,October,2018,39,30,Spouses-1 older
+Gauteng,October,2018,38,32,Spouses-1 older
+Gauteng,October,2018,30,28,Spouses-1 older
+Gauteng,October,2018,53,45,Spouses-1 older
+Gauteng,October,2018,28,31,Spouses-1 younger
+Gauteng,October,2018,30,30,Spouses same age
+Gauteng,November,2018,39,25,Spouses-1 older
+Gauteng,November,2018,31,33,Spouses-1 younger
+Gauteng,November,2018,43,42,Spouses-1 older
+Gauteng,December,2018,54,50,Spouses-1 older
+Gauteng,December,2018,38,55,Spouses-1 younger
+Gauteng,December,2018,52,39,Spouses-1 older
+Free State,September,2018,55,50,Spouses-1 older
+Free State,November,2018,27,33,Spouses-1 younger
+Mpumalanga,September,2018,39,35,Spouses-1 older
+Western Cape,May,2018,38,35,Spouses-1 older
+Eastern Cape,November,2018,32,23,Spouses-1 older
+Western Cape,March,2018,48,46,Spouses-1 older
+Western Cape,May,2018,60,61,Spouses-1 younger
+Western Cape,May,2018,52,55,Spouses-1 younger
+Western Cape,May,2018,51,52,Spouses-1 younger
+Western Cape,November,2018,34,33,Spouses-1 older
+Western Cape,December,2018,39,40,Spouses-1 younger
+Northern Cape,September,2018,37,39,Spouses-1 younger
+Northern Cape,April,2018,32,28,Spouses-1 older
+Gauteng,March,2018,46,40,Spouses-1 older
+Gauteng,March,2018,27,24,Spouses-1 older
+Gauteng,April,2018,32,36,Spouses-1 younger
+Gauteng,June,2018,26,27,Spouses-1 younger
+Gauteng,June,2018,47,24,Spouses-1 older
+Gauteng,July,2018,27,28,Spouses-1 younger
+Gauteng,July,2018,29,28,Spouses-1 older
+Gauteng,July,2018,42,38,Spouses-1 older
+Gauteng,September,2018,25,24,Spouses-1 older
+Gauteng,November,2018,29,26,Spouses-1 older
+Gauteng,December,2018,47,56,Spouses-1 younger
+Gauteng,December,2018,39,40,Spouses-1 younger
+Gauteng,December,2018,34,24,Spouses-1 older
+Western Cape,September,2018,33,30,Spouses-1 older
+Western Cape,December,2018,27,26,Spouses-1 older
+KwaZulu-Natal,March,2018,35,36,Spouses-1 younger
+Western Cape,November,2018,36,37,Spouses-1 younger
+Western Cape,January,2018,49,35,Spouses-1 older
+Western Cape,April,2018,29,37,Spouses-1 younger
+Western Cape,April,2018,29,26,Spouses-1 older
+Western Cape,April,2018,31,32,Spouses-1 younger
+Western Cape,June,2018,36,32,Spouses-1 older
+Western Cape,August,2018,36,37,Spouses-1 younger
+Western Cape,September,2018,35,31,Spouses-1 older
+Western Cape,October,2018,37,35,Spouses-1 older
+Western Cape,November,2018,43,41,Spouses-1 older
+Western Cape,November,2018,28,28,Spouses same age
+Western Cape,December,2018,32,35,Spouses-1 younger
+Western Cape,December,2018,23,23,Spouses same age
+Western Cape,December,2018,47,41,Spouses-1 older
+Limpopo,August,2018,38,34,Spouses-1 older
+North West,February,2018,36,33,Spouses-1 older
+North West,September,2018,44,28,Spouses-1 older
+North West,October,2018,61,50,Spouses-1 older
+Western Cape,February,2018,63,59,Spouses-1 older
+Western Cape,December,2018,30,30,Spouses same age
+Eastern Cape,December,2018,30,35,Spouses-1 younger
+Gauteng,August,2018,33,38,Spouses-1 younger
+Eastern Cape,February,2018,26,30,Spouses-1 younger
+Western Cape,May,2018,46,31,Spouses-1 older
+Western Cape,July,2018,37,36,Spouses-1 older
+Western Cape,December,2018,43,41,Spouses-1 older
+Western Cape,August,2018,34,52,Spouses-1 younger
+Gauteng,June,2018,28,36,Spouses-1 younger
+Gauteng,March,2018,31,33,Spouses-1 younger
+KwaZulu-Natal,December,2018,28,28,Spouses same age
+KwaZulu-Natal,July,2018,33,33,Spouses same age
+Western Cape,October,2018,63,53,Spouses-1 older
+KwaZulu-Natal,December,2018,49,45,Spouses-1 older
+KwaZulu-Natal,June,2018,33,30,Spouses-1 older
+Gauteng,September,2018,33,36,Spouses-1 younger
+Western Cape,May,2018,28,27,Spouses-1 older
+Western Cape,August,2018,38,32,Spouses-1 older
+Western Cape,December,2018,24,24,Spouses same age
+Limpopo,February,2018,33,43,Spouses-1 younger
+Limpopo,April,2018,31,30,Spouses-1 older
+Eastern Cape,August,2018,35,35,Spouses same age
+Eastern Cape,February,2018,40,38,Spouses-1 older
+Eastern Cape,July,2018,32,27,Spouses-1 older
+Eastern Cape,September,2018,52,39,Spouses-1 older
+KwaZulu-Natal,April,2018,25,26,Spouses-1 younger
+KwaZulu-Natal,April,2018,30,29,Spouses-1 older
+KwaZulu-Natal,May,2018,68,61,Spouses-1 older
+KwaZulu-Natal,August,2018,37,30,Spouses-1 older
+KwaZulu-Natal,September,2018,32,33,Spouses-1 younger
+KwaZulu-Natal,March,2018,52,57,Spouses-1 younger
+KwaZulu-Natal,August,2018,42,44,Spouses-1 younger
+KwaZulu-Natal,June,2018,31,30,Spouses-1 older
+KwaZulu-Natal,April,2018,29,26,Spouses-1 older
+Northern Cape,October,2018,29,24,Spouses-1 older
+Northern Cape,October,2018,26,26,Spouses same age
+Northern Cape,December,2018,27,29,Spouses-1 younger
+KwaZulu-Natal,January,2018,46,39,Spouses-1 older
+Gauteng,January,2018,48,41,Spouses-1 older
+Gauteng,October,2018,32,30,Spouses-1 older
+Gauteng,October,2018,35,28,Spouses-1 older
+Gauteng,January,2018,46,49,Spouses-1 younger
+Gauteng,March,2018,24,24,Spouses same age
+Gauteng,March,2018,39,35,Spouses-1 older
+Gauteng,March,2018,29,42,Spouses-1 younger
+Gauteng,November,2018,40,52,Spouses-1 younger
+Gauteng,January,2018,31,26,Spouses-1 older
+Gauteng,February,2018,35,35,Spouses same age
+Gauteng,April,2018,53,21,Spouses-1 older
+Gauteng,April,2018,49,27,Spouses-1 older
+Gauteng,June,2018,43,40,Spouses-1 older
+Gauteng,August,2018,39,26,Spouses-1 older
+Gauteng,October,2018,33,35,Spouses-1 younger
+Gauteng,October,2018,41,45,Spouses-1 younger
+Gauteng,January,2018,45,47,Spouses-1 younger
+Gauteng,March,2018,32,35,Spouses-1 younger
+Gauteng,March,2018,44,44,Spouses same age
+Gauteng,May,2018,34,25,Spouses-1 older
+Gauteng,August,2018,38,34,Spouses-1 older
+Gauteng,August,2018,34,39,Spouses-1 younger
+Gauteng,October,2018,38,39,Spouses-1 younger
+Gauteng,October,2018,42,29,Spouses-1 older
+Gauteng,November,2018,33,29,Spouses-1 older
+Gauteng,November,2018,33,25,Spouses-1 older
+Gauteng,November,2018,41,37,Spouses-1 older
+KwaZulu-Natal,July,2018,35,41,Spouses-1 younger
+KwaZulu-Natal,July,2018,38,31,Spouses-1 older
+Free State,September,2018,30,30,Spouses same age
+Free State,March,2018,43,42,Spouses-1 older
+Free State,May,2018,41,43,Spouses-1 younger
+Free State,June,2018,31,40,Spouses-1 younger
+Western Cape,December,2018,21,18,Spouses-1 older
+KwaZulu-Natal,April,2018,30,28,Spouses-1 older
+KwaZulu-Natal,October,2018,33,32,Spouses-1 older
+Mpumalanga,May,2018,46,41,Spouses-1 older
+Mpumalanga,March,2018,53,40,Spouses-1 older
+Mpumalanga,September,2018,43,21,Spouses-1 older
+Western Cape,March,2018,49,27,Spouses-1 older
+Western Cape,December,2018,31,28,Spouses-1 older
+Western Cape,April,2018,39,30,Spouses-1 older
+North West,February,2018,27,26,Spouses-1 older
+North West,April,2018,49,55,Spouses-1 younger
+KwaZulu-Natal,December,2018,46,41,Spouses-1 older
+KwaZulu-Natal,December,2018,38,27,Spouses-1 older
